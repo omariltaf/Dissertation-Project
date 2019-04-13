@@ -13,7 +13,7 @@ def read_file(path):
                 print(row[3] + "\t" + row[4])
                 if line_count != 0:
                     startDate.append(row[3])
-                    endDate.append(row[3])
+                    endDate.append(row[4])
                 line_count += 1;
             else:
                 break
