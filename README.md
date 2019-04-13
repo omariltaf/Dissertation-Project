@@ -1,2 +1,2 @@
 # Dissertation-Project
-A Large Scale Analysis of Mobile Trajectories
+A Large-scale Analysis of Mobile Trajectories
