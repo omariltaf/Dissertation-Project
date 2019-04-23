@@ -35,19 +35,3 @@ def print_trajectories(trajectories):
     print(len(trajectories))
     for trajectory in trajectories:
         pp.pprint(str(trajectory))
-
-# def writetofile():
-#     trajectories = extract_data("data/locations.csv")
-#     file = open("trajdata.txt", "w")
-#     dimensions = 2
-#     num_trajectories = len(trajectories)
-#     file.write("%d\n" % dimensions)
-#     file.write("%d\n" % num_trajectories)
-#     index = 0
-#     for trajectory in trajectories:
-#         # print(trajectory.points[0].timestamp)
-#         file.write("%d %d" % (index, trajectory.length()))
-#         index += 1
-#         for point in trajectory.points:
-#             file.write(" %f %f" % (point.latitude, point.longitude))
-#         file.write("\n")
