@@ -1,0 +1,21 @@
+Large-Scale Analysis of Mobile Trajectories
+Omar Iltaf
+
+Some python libraries will need to be installed to run (using pip):
+pip install overpy
+pip install geopy
+pip install mysql-connector
+pip install requests
+pip install shapely
+pip install pandas
+pip install scikit-learn
+pip install numpy
+
+To run: python main.py
+Note: Right now output is to the console, data file output can be enabled by uncommenting in main.py
+Note: data.csv is main output and located in /workingdata directory
+
+To generate analysis files: python analysis.py
+Note: Analysis files are located in /results directory
+
+Note: the list of approved tag names is in relevant_tags.txt

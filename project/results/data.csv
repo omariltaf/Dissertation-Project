@@ -1,0 +1,1054 @@
+user_id,tag_1,tag_2,tag_3,tag_4,tag_5,num_trajectories,num_stay_points,num_clusters
+user_1,leisure-swimming_pool: 4,amenity-hospital: 2,amenity-community_centre: 1,,,15,121,3
+user_2,,,,,,10,73,1
+user_3,shop-supermarket: 1,amenity-hospital: 1,amenity-fast_food: 1,leisure-park: 1,amenity-school: 1,16,175,3
+user_4,,,,,,8,30,0
+user_5,amenity-university: 2,historic-monument: 2,amenity-cafe: 2,amenity-restaurant: 2,tourism-museum: 2,137,665,10
+user_6,amenity-hospital: 2,amenity-community_centre: 1,,,,12,70,2
+user_7,office-university: 3,amenity-university: 1,amenity-school: 1,,,12,91,3
+user_8,natural-wood: 1,,,,,5,40,1
+user_9,leisure-park: 1,,,,,14,122,2
+user_10,office-university: 12,amenity-fast_food: 7,amenity-pub: 6,shop-hairdresser: 6,amenity-university: 5,39,312,9
+user_11,tourism-artwork: 5,historic-memorial: 2,amenity-restaurant: 1,,,32,159,4
+user_12,tourism-museum: 2,amenity-cafe: 2,amenity-townhall: 1,historic-memorial: 1,tourism-artwork: 1,33,217,3
+user_13,amenity-hospital: 2,,,,,67,270,3
+user_14,amenity-place_of_worship: 2,amenity-hospital: 2,office-bank: 1,natural-wood: 1,,74,331,3
+user_15,amenity-fast_food: 5,office-university: 4,amenity-pub: 4,shop-hairdresser: 2,amenity-restaurant: 2,96,594,7
+user_16,amenity-university: 1,amenity-kindergarten: 1,leisure-pitch: 1,,,44,179,6
+user_17,amenity-place_of_worship: 1,,,,,23,51,2
+user_18,natural-wood: 1,,,,,9,56,2
+user_19,amenity-fast_food: 1,amenity-university: 1,,,,49,316,4
+user_20,amenity-hospital: 1,,,,,15,117,1
+user_21,leisure-park: 2,,,,,17,102,5
+user_22,leisure-park: 1,leisure-playground: 1,,,,17,134,3
+user_23,amenity-cafe: 6,leisure-park: 2,amenity-pub: 2,amenity-embassy: 1,amenity-community_centre: 1,33,262,7
+user_24,shop-hairdresser: 3,leisure-garden: 1,natural-wood: 1,leisure-park: 1,leisure-sports_centre: 1,147,552,9
+user_25,shop-supermarket: 1,amenity-school: 1,,,,109,494,5
+user_26,,,,,,27,87,2
+user_27,amenity-school: 2,leisure-garden: 2,amenity-university: 2,leisure-park: 1,leisure-playground: 1,61,257,7
+user_28,leisure-park: 4,leisure-playground: 1,amenity-pharmacy: 1,amenity-pub: 1,amenity-university: 1,25,264,8
+user_29,amenity-restaurant: 8,amenity-university: 7,amenity-pub: 6,leisure-park: 5,amenity-cafe: 5,216,1182,21
+user_30,leisure-sports_centre: 2,,,,,17,98,3
+user_31,amenity-cafe: 3,shop-supermarket: 2,tourism-museum: 2,amenity-bar: 2,amenity-fast_food: 2,146,535,6
+user_32,office-university: 15,amenity-theatre: 3,amenity-university: 2,amenity-pub: 2,amenity-place_of_worship: 2,183,1440,9
+user_33,office-university: 2,amenity-university: 1,,,,40,159,2
+user_34,tourism-artwork: 14,leisure-sports_centre: 5,tourism-museum: 3,amenity-fast_food: 3,amenity-pub: 2,366,2350,28
+user_35,historic-monument: 3,amenity-arts_centre: 2,leisure-swimming_pool: 1,leisure-playground: 1,leisure-pitch: 1,49,345,5
+user_36,leisure-swimming_pool: 2,,,,,7,63,1
+user_37,,,,,,20,109,1
+user_38,leisure-sports_centre: 3,shop-furniture: 1,amenity-pub: 1,amenity-restaurant: 1,amenity-cafe: 1,156,309,5
+user_39,amenity-university: 3,historic-monument: 2,amenity-cafe: 2,leisure-garden: 1,amenity-arts_centre: 1,48,339,4
+user_40,amenity-school: 1,amenity-restaurant: 1,,,,15,137,2
+user_41,leisure-pitch: 3,leisure-park: 2,leisure-garden: 2,historic-monument: 2,amenity-university: 1,47,244,5
+user_42,amenity-marketplace: 6,shop-bakery: 5,amenity-restaurant: 4,shop-convenience: 4,shop-confectionery: 2,440,1709,18
+user_43,leisure-park: 3,amenity-restaurant: 3,amenity-bar: 2,amenity-cafe: 2,amenity-embassy: 1,136,781,13
+user_44,leisure-garden: 3,leisure-park: 2,amenity-bar: 2,amenity-restaurant: 2,amenity-university: 1,47,324,8
+user_45,leisure-park: 1,leisure-playground: 1,,,,46,356,2
+user_46,tourism-artwork: 3,tourism-museum: 2,leisure-marina: 1,amenity-park: 1,leisure-park: 1,30,144,3
+user_47,amenity-marketplace: 6,shop-convenience: 5,shop-bakery: 4,shop-hardware: 3,shop-hairdresser: 3,38,339,8
+user_48,amenity-restaurant: 10,amenity-cafe: 6,amenity-bank: 3,amenity-ice_cream: 3,amenity-pharmacy: 3,39,260,9
+user_49,office-university: 3,amenity-university: 1,leisure-sports_centre: 1,,,116,372,3
+user_50,leisure-park: 2,tourism-attraction: 1,amenity-cafe: 1,amenity-theatre: 1,amenity-restaurant: 1,29,178,5
+user_51,amenity-restaurant: 15,amenity-cafe: 2,amenity-fast_food: 2,leisure-sports_centre: 2,amenity-nightclub: 2,130,845,13
+user_52,leisure-pitch: 2,leisure-swimming_pool: 1,amenity-bar: 1,amenity-cafe: 1,shop-beauty: 1,39,214,5
+user_53,amenity-pub: 1,,,,,71,193,2
+user_54,amenity-bar: 5,amenity-cafe: 5,amenity-university: 5,leisure-garden: 5,amenity-fast_food: 3,163,981,12
+user_55,amenity-cafe: 7,amenity-university: 5,amenity-restaurant: 5,amenity-fast_food: 4,amenity-bar: 3,207,1608,25
+user_56,amenity-cafe: 2,leisure-pitch: 1,amenity-bank: 1,amenity-pharmacy: 1,,77,971,6
+user_57,leisure-park: 5,shop-confectionery: 4,amenity-cafe: 4,amenity-restaurant: 3,amenity-pharmacy: 3,228,1519,23
+user_58,shop-supermarket: 1,leisure-park: 1,,,,98,402,5
+user_59,historic-memorial: 2,leisure-park: 1,leisure-pitch: 1,amenity-place_of_worship: 1,amenity-kindergarten: 1,82,506,8
+user_60,amenity-university: 6,leisure-garden: 5,amenity-bar: 5,leisure-park: 4,amenity-cafe: 4,110,821,16
+user_61,,,,,,17,58,1
+user_62,leisure-park: 2,amenity-community_centre: 1,,,,31,139,3
+user_63,shop-supermarket: 2,leisure-park: 1,leisure-pitch: 1,natural-wood: 1,tourism-attraction: 1,122,786,6
+user_64,amenity-fast_food: 2,leisure-sports_centre: 1,leisure-swimming_pool: 1,amenity-cafe: 1,amenity-college: 1,113,431,6
+user_65,amenity-restaurant: 1,amenity-hospital: 1,historic-castle: 1,leisure-park: 1,amenity-police: 1,74,630,11
+user_66,amenity-marketplace: 5,shop-hairdresser: 3,amenity-bar: 3,amenity-place_of_worship: 2,amenity-restaurant: 2,73,776,8
+user_67,shop-supermarket: 3,natural-wood: 1,amenity-hospital: 1,leisure-sports_centre: 1,leisure-pitch: 1,122,350,7
+user_68,amenity-restaurant: 11,amenity-cafe: 9,leisure-garden: 4,historic-memorial: 3,amenity-place_of_worship: 3,179,2028,21
+user_69,office-university: 10,amenity-restaurant: 8,shop-hairdresser: 6,amenity-university: 5,amenity-fast_food: 3,190,634,10
+user_70,amenity-fast_food: 16,shop-supermarket: 11,amenity-place_of_worship: 8,amenity-cafe: 8,amenity-restaurant: 7,364,2289,31
+user_71,amenity-fast_food: 5,amenity-kindergarten: 2,shop-convenience: 2,shop-hairdresser: 2,amenity-school: 1,23,129,3
+user_72,amenity-bar: 4,office-university: 3,amenity-university: 2,amenity-fast_food: 2,amenity-bank: 1,83,397,6
+user_73,amenity-restaurant: 3,amenity-cafe: 3,historic-memorial: 3,amenity-fast_food: 3,shop-supermarket: 2,224,1791,23
+user_74,amenity-restaurant: 6,amenity-cafe: 3,shop-convenience: 2,historic-archaeological_site: 2,historic-monument: 1,56,390,8
+user_75,,,,,,54,327,2
+user_76,amenity-fast_food: 4,amenity-school: 2,shop-convenience: 2,tourism-artwork: 2,amenity-college: 1,40,278,5
+user_77,amenity-bank: 2,shop-hairdresser: 1,amenity-bar: 1,amenity-restaurant: 1,amenity-pub: 1,12,59,3
+user_78,leisure-park: 1,leisure-pitch: 1,leisure-sports_centre: 1,amenity-place_of_worship: 1,amenity-kindergarten: 1,90,631,9
+user_79,tourism-artwork: 13,amenity-cafe: 10,amenity-restaurant: 8,amenity-pub: 5,shop-beauty: 5,345,1744,18
+user_80,natural-wood: 2,amenity-university: 2,leisure-pitch: 1,tourism-museum: 1,shop-furniture: 1,35,186,5
+user_81,amenity-cafe: 1,,,,,27,199,3
+user_82,leisure-park: 1,leisure-garden: 1,,,,23,127,3
+user_83,amenity-school: 3,leisure-park: 2,amenity-cafe: 1,amenity-restaurant: 1,leisure-stadium: 1,123,788,14
+user_84,amenity-school: 6,amenity-hospital: 4,leisure-swimming_pool: 2,shop-supermarket: 2,amenity-place_of_worship: 1,218,1192,14
+user_85,amenity-school: 11,leisure-garden: 10,amenity-restaurant: 9,leisure-pitch: 7,leisure-park: 7,491,2793,53
+user_86,shop-supermarket: 4,amenity-cafe: 3,amenity-bar: 2,amenity-pharmacy: 2,leisure-park: 2,337,2004,24
+user_87,amenity-restaurant: 23,amenity-fast_food: 10,amenity-cafe: 8,amenity-bank: 3,shop-beauty: 3,383,1592,11
+user_88,amenity-university: 6,leisure-sports_centre: 3,leisure-park: 1,amenity-bank: 1,amenity-food_court: 1,35,362,9
+user_89,amenity-restaurant: 14,amenity-cafe: 6,amenity-fast_food: 5,tourism-artwork: 3,amenity-pub: 2,115,444,10
+user_90,leisure-park: 3,leisure-playground: 2,shop-supermarket: 1,amenity-place_of_worship: 1,amenity-kindergarten: 1,82,659,11
+user_91,,,,,,73,94,0
+user_92,amenity-fast_food: 14,amenity-cafe: 13,tourism-artwork: 12,amenity-restaurant: 8,shop-beauty: 5,141,569,11
+user_93,amenity-restaurant: 3,amenity-school: 2,amenity-bar: 2,shop-supermarket: 1,leisure-park: 1,49,588,14
+user_94,amenity-school: 1,amenity-place_of_worship: 1,amenity-police: 1,,,30,286,6
+user_95,leisure-park: 3,amenity-ice_cream: 1,amenity-restaurant: 1,amenity-fast_food: 1,leisure-playground: 1,52,265,6
+user_96,leisure-pitch: 1,leisure-sports_centre: 1,amenity-place_of_worship: 1,amenity-theatre: 1,,78,962,11
+user_97,leisure-garden: 5,leisure-park: 4,leisure-sports_centre: 3,tourism-artwork: 3,amenity-cafe: 2,208,848,14
+user_98,historic-memorial: 1,,,,,90,149,3
+user_99,amenity-restaurant: 9,amenity-cafe: 8,shop-hairdresser: 3,leisure-park: 2,amenity-bar: 2,237,1217,22
+user_100,office-university: 3,amenity-school: 2,amenity-pub: 1,amenity-university: 1,leisure-fitness_centre: 1,47,511,12
+user_101,amenity-bank: 2,shop-supermarket: 1,leisure-park: 1,amenity-townhall: 1,amenity-pub: 1,68,402,4
+user_102,leisure-pitch: 6,leisure-garden: 2,amenity-bank: 1,tourism-museum: 1,leisure-park: 1,156,1170,19
+user_103,amenity-cafe: 2,amenity-place_of_worship: 1,amenity-restaurant: 1,,,48,252,4
+user_104,leisure-park: 2,leisure-playground: 2,shop-convenience: 2,amenity-place_of_worship: 1,tourism-attraction: 1,19,281,3
+user_105,amenity-marketplace: 5,amenity-university: 1,,,,61,484,8
+user_106,leisure-garden: 85,shop-hairdresser: 4,amenity-school: 3,shop-convenience: 2,amenity-restaurant: 2,370,1928,18
+user_107,amenity-restaurant: 9,shop-bakery: 6,shop-hairdresser: 6,amenity-marketplace: 5,amenity-bar: 4,127,928,10
+user_108,leisure-park: 3,leisure-playground: 2,natural-wood: 2,office-university: 2,shop-supermarket: 1,79,240,4
+user_109,amenity-place_of_worship: 1,amenity-pub: 1,,,,57,445,3
+user_110,amenity-place_of_worship: 2,amenity-pharmacy: 2,amenity-school: 1,amenity-park: 1,leisure-park: 1,298,1213,8
+user_111,amenity-fast_food: 7,shop-supermarket: 5,amenity-pharmacy: 3,amenity-place_of_worship: 2,leisure-playground: 1,388,1978,16
+user_112,leisure-nature_reserve: 1,leisure-park: 1,amenity-school: 1,,,75,432,6
+user_113,shop-supermarket: 3,amenity-place_of_worship: 3,amenity-fast_food: 2,amenity-school: 2,shop-bakery: 1,160,939,16
+user_114,amenity-hospital: 5,amenity-school: 3,amenity-courthouse: 1,shop-hairdresser: 1,historic-memorial: 1,78,711,9
+user_115,leisure-park: 5,shop-supermarket: 4,amenity-school: 4,amenity-place_of_worship: 3,tourism-artwork: 1,305,2504,25
+user_116,amenity-restaurant: 14,amenity-bank: 11,amenity-fast_food: 10,amenity-cafe: 8,amenity-pub: 7,347,3232,46
+user_117,office-university: 4,amenity-restaurant: 2,amenity-university: 2,leisure-park: 2,leisure-fitness_centre: 1,60,325,6
+user_118,office-university: 4,leisure-park: 4,amenity-university: 2,amenity-theatre: 2,natural-wood: 2,51,364,6
+user_119,amenity-school: 5,amenity-place_of_worship: 1,leisure-park: 1,amenity-kindergarten: 1,amenity-nightclub: 1,42,445,7
+user_120,shop-furniture: 1,amenity-place_of_worship: 1,shop-convenience: 1,,,97,988,9
+user_121,amenity-cafe: 5,amenity-restaurant: 4,amenity-fast_food: 4,amenity-school: 2,shop-supermarket: 1,189,649,8
+user_122,amenity-fast_food: 9,shop-supermarket: 3,shop-confectionery: 3,shop-convenience: 3,amenity-pharmacy: 3,249,1163,10
+user_123,amenity-fast_food: 5,amenity-place_of_worship: 3,amenity-restaurant: 3,shop-convenience: 3,shop-supermarket: 3,245,1771,18
+user_124,amenity-place_of_worship: 2,shop-supermarket: 1,amenity-college: 1,shop-car_repair: 1,,96,544,5
+user_125,amenity-place_of_worship: 3,leisure-playground: 2,amenity-casino: 1,leisure-fitness_centre: 1,amenity-bar: 1,96,556,10
+user_126,,,,,,154,238,1
+user_127,leisure-garden: 18,amenity-school: 2,amenity-pub: 1,leisure-playground: 1,leisure-park: 1,158,1397,7
+user_128,amenity-school: 3,leisure-park: 3,natural-wood: 1,shop-supermarket: 1,amenity-fast_food: 1,105,637,12
+user_129,amenity-restaurant: 11,amenity-cafe: 11,amenity-fast_food: 9,amenity-embassy: 7,shop-beauty: 5,233,573,10
+user_130,leisure-garden: 9,amenity-school: 1,amenity-cafe: 1,shop-convenience: 1,,106,534,6
+user_131,amenity-restaurant: 15,amenity-fast_food: 8,amenity-place_of_worship: 6,amenity-school: 5,amenity-pub: 4,301,1178,26
+user_132,amenity-restaurant: 29,amenity-cafe: 9,shop-beauty: 8,amenity-pub: 7,shop-hairdresser: 6,299,1084,20
+user_133,amenity-school: 3,leisure-park: 2,leisure-pitch: 1,leisure-sports_centre: 1,amenity-kindergarten: 1,61,303,11
+user_134,amenity-school: 1,amenity-place_of_worship: 1,amenity-hospital: 1,amenity-doctors: 1,,52,358,3
+user_135,leisure-pitch: 4,amenity-hospital: 3,amenity-fast_food: 3,amenity-school: 2,amenity-cafe: 1,110,546,11
+user_136,amenity-fast_food: 7,amenity-pharmacy: 4,shop-convenience: 3,shop-hairdresser: 2,amenity-ice_cream: 2,127,868,15
+user_137,leisure-park: 3,amenity-fast_food: 2,amenity-school: 1,leisure-pitch: 1,amenity-place_of_worship: 1,87,514,8
+user_138,amenity-fast_food: 3,amenity-park: 2,leisure-park: 2,shop-hairdresser: 2,shop-convenience: 2,157,813,6
+user_139,amenity-pub: 7,amenity-cafe: 4,amenity-place_of_worship: 3,amenity-bank: 2,amenity-nightclub: 2,183,1110,24
+user_140,amenity-restaurant: 17,amenity-fast_food: 10,shop-supermarket: 4,shop-hairdresser: 4,amenity-place_of_worship: 4,395,1641,17
+user_141,amenity-place_of_worship: 3,leisure-park: 1,,,,81,474,6
+user_142,amenity-university: 3,leisure-garden: 3,leisure-park: 3,leisure-pitch: 3,amenity-college: 3,94,431,4
+user_143,shop-supermarket: 4,amenity-cafe: 3,amenity-fast_food: 3,amenity-pharmacy: 2,leisure-playground: 2,417,1692,19
+user_144,amenity-fast_food: 4,shop-supermarket: 3,leisure-park: 2,shop-car_repair: 1,tourism-artwork: 1,238,904,6
+user_145,amenity-pharmacy: 4,amenity-fast_food: 3,amenity-doctors: 2,shop-supermarket: 2,amenity-hospital: 2,117,632,9
+user_146,leisure-park: 3,leisure-playground: 1,amenity-kindergarten: 1,leisure-pitch: 1,leisure-sports_centre: 1,128,730,9
+user_147,tourism-artwork: 7,leisure-park: 5,amenity-bar: 3,amenity-nightclub: 3,amenity-pub: 2,352,1971,26
+user_148,leisure-park: 2,amenity-school: 1,leisure-playground: 1,,,82,607,4
+user_149,shop-car_repair: 2,amenity-place_of_worship: 2,amenity-restaurant: 1,amenity-school: 1,amenity-pharmacy: 1,28,161,3
+user_150,amenity-fast_food: 9,amenity-cafe: 7,shop-supermarket: 4,amenity-bank: 4,amenity-restaurant: 3,176,441,7
+user_151,leisure-park: 1,,,,,44,226,5
+user_152,leisure-garden: 14,leisure-park: 3,shop-supermarket: 3,amenity-theatre: 2,historic-memorial: 2,376,1829,24
+user_153,leisure-swimming_pool: 5,natural-wood: 1,leisure-garden: 1,leisure-park: 1,,65,455,7
+user_154,amenity-restaurant: 3,amenity-cafe: 3,leisure-garden: 3,amenity-university: 2,leisure-park: 2,62,349,6
+user_155,amenity-fast_food: 7,natural-wood: 3,amenity-bank: 3,shop-hairdresser: 3,shop-supermarket: 2,192,1006,19
+user_156,leisure-garden: 29,amenity-place_of_worship: 2,amenity-school: 1,leisure-escape_game: 1,,116,579,8
+user_157,amenity-school: 1,amenity-hospital: 1,amenity-clinic: 1,amenity-pharmacy: 1,,178,1538,7
+user_158,tourism-artwork: 20,amenity-cinema: 2,amenity-restaurant: 1,shop-hairdresser: 1,amenity-school: 1,120,661,12
+user_159,amenity-school: 1,amenity-police: 1,,,,92,478,5
+user_160,leisure-pitch: 1,,,,,37,168,2
+user_161,amenity-fast_food: 5,amenity-pharmacy: 4,amenity-doctors: 2,tourism-artwork: 2,amenity-place_of_worship: 1,294,999,10
+user_162,amenity-place_of_worship: 1,shop-car_repair: 1,amenity-school: 1,,,106,544,4
+user_163,amenity-pub: 2,amenity-bank: 2,leisure-garden: 1,shop-department_store: 1,amenity-fast_food: 1,46,448,8
+user_164,natural-wood: 3,shop-supermarket: 1,leisure-park: 1,leisure-sports_centre: 1,leisure-playground: 1,141,750,10
+user_165,amenity-restaurant: 3,amenity-cafe: 2,leisure-water_park: 2,shop-beauty: 1,,38,145,3
+user_166,amenity-school: 4,shop-convenience: 2,natural-wood: 2,shop-supermarket: 1,amenity-community_centre: 1,285,1462,12
+user_167,tourism-artwork: 17,amenity-restaurant: 8,leisure-garden: 7,amenity-pub: 6,amenity-cafe: 5,392,2152,29
+user_168,shop-supermarket: 5,amenity-college: 2,amenity-pub: 2,amenity-cafe: 2,amenity-school: 2,106,642,12
+user_169,shop-car_repair: 5,natural-wood: 2,,,,18,75,2
+user_170,amenity-school: 5,amenity-pharmacy: 4,amenity-fast_food: 4,shop-convenience: 2,tourism-artwork: 2,233,995,15
+user_171,shop-hairdresser: 5,shop-car_repair: 4,amenity-cafe: 4,amenity-restaurant: 4,natural-wood: 4,254,1031,15
+user_172,leisure-park: 2,shop-supermarket: 1,amenity-place_of_worship: 1,amenity-doctors: 1,amenity-pub: 1,179,562,8
+user_173,tourism-artwork: 8,amenity-restaurant: 3,historic-memorial: 3,amenity-pub: 2,leisure-garden: 2,237,560,12
+user_174,amenity-fast_food: 6,amenity-bar: 4,shop-hairdresser: 3,shop-car_repair: 3,leisure-park: 2,201,1561,12
+user_175,amenity-fast_food: 6,historic-memorial: 5,shop-confectionery: 3,amenity-school: 2,shop-car_repair: 2,131,746,9
+user_176,leisure-park: 4,shop-supermarket: 4,shop-hairdresser: 4,amenity-cafe: 4,shop-beauty: 3,283,822,10
+user_177,leisure-garden: 13,amenity-school: 4,leisure-pitch: 2,natural-wood: 2,historic-memorial: 1,146,544,9
+user_178,shop-confectionery: 5,shop-supermarket: 4,shop-hairdresser: 4,amenity-fast_food: 4,shop-convenience: 3,407,2966,17
+user_179,amenity-place_of_worship: 3,amenity-school: 2,leisure-park: 2,amenity-fast_food: 2,natural-wood: 1,126,507,4
+user_180,amenity-doctors: 6,leisure-park: 3,amenity-school: 3,shop-supermarket: 2,amenity-restaurant: 2,248,906,14
+user_181,shop-supermarket: 5,amenity-pharmacy: 4,amenity-fast_food: 3,shop-furniture: 2,amenity-school: 1,128,789,9
+user_182,amenity-hospital: 2,amenity-cafe: 1,,,,130,411,6
+user_183,shop-supermarket: 5,leisure-park: 3,amenity-school: 3,amenity-fast_food: 3,natural-wood: 2,271,1614,30
+user_184,shop-car_repair: 8,amenity-fast_food: 6,amenity-pub: 4,amenity-school: 4,shop-supermarket: 2,188,1407,19
+user_185,amenity-fast_food: 4,amenity-school: 3,shop-supermarket: 3,amenity-doctors: 2,leisure-garden: 1,112,733,9
+user_186,leisure-garden: 1,amenity-school: 1,,,,23,155,4
+user_187,amenity-cafe: 3,amenity-fast_food: 3,shop-furniture: 2,shop-hairdresser: 1,shop-convenience: 1,104,742,6
+user_188,amenity-fast_food: 6,shop-convenience: 3,amenity-pharmacy: 1,amenity-dentist: 1,amenity-bank: 1,207,1018,14
+user_189,amenity-school: 1,shop-convenience: 1,amenity-kindergarten: 1,amenity-pub: 1,shop-supermarket: 1,56,252,5
+user_190,shop-supermarket: 4,amenity-fast_food: 3,historic-memorial: 2,amenity-pub: 1,amenity-restaurant: 1,251,1161,13
+user_191,amenity-fast_food: 3,amenity-school: 2,amenity-place_of_worship: 2,leisure-park: 2,natural-wood: 1,117,1086,7
+user_192,tourism-attraction: 10,shop-hairdresser: 3,shop-supermarket: 3,leisure-pitch: 2,amenity-college: 1,275,987,16
+user_193,amenity-restaurant: 11,amenity-fast_food: 9,shop-hairdresser: 8,amenity-cafe: 5,shop-confectionery: 5,302,1541,18
+user_194,shop-supermarket: 2,amenity-place_of_worship: 1,shop-convenience: 1,leisure-adult_gaming_centre: 1,amenity-fast_food: 1,197,1114,10
+user_195,amenity-pub: 2,amenity-place_of_worship: 1,leisure-park: 1,leisure-stadium: 1,leisure-pitch: 1,77,339,9
+user_196,amenity-restaurant: 7,amenity-pub: 4,amenity-fast_food: 4,shop-convenience: 2,shop-supermarket: 2,371,1988,10
+user_197,amenity-restaurant: 9,leisure-pitch: 5,amenity-pub: 5,amenity-school: 4,shop-supermarket: 3,399,2370,25
+user_198,amenity-fast_food: 14,amenity-school: 4,leisure-park: 4,amenity-place_of_worship: 4,shop-supermarket: 3,390,1045,22
+user_199,office-university: 3,amenity-university: 1,,,,20,154,2
+user_200,,,,,,44,286,1
+user_201,amenity-fast_food: 16,amenity-cafe: 5,shop-bakery: 5,amenity-restaurant: 3,leisure-swimming_pool: 3,378,2782,20
+user_202,leisure-garden: 7,,,,,99,493,7
+user_203,amenity-school: 1,leisure-park: 1,amenity-university: 1,amenity-theatre: 1,amenity-townhall: 1,65,354,7
+user_204,leisure-garden: 46,amenity-school: 3,natural-wood: 2,amenity-university: 1,,61,319,4
+user_205,amenity-school: 3,amenity-bank: 3,leisure-pitch: 2,amenity-pharmacy: 2,shop-supermarket: 2,259,1302,11
+user_206,amenity-fast_food: 4,amenity-bank: 2,amenity-restaurant: 2,shop-supermarket: 1,shop-car_repair: 1,65,557,11
+user_207,amenity-fast_food: 1,amenity-restaurant: 1,amenity-school: 1,amenity-place_of_worship: 1,amenity-pub: 1,38,253,4
+user_208,leisure-park: 2,shop-supermarket: 1,amenity-pub: 1,shop-car_repair: 1,amenity-fast_food: 1,97,371,7
+user_209,office-university: 3,amenity-university: 1,,,,12,77,2
+user_210,amenity-school: 3,amenity-cafe: 2,amenity-fast_food: 2,leisure-pitch: 2,shop-supermarket: 2,113,477,9
+user_211,amenity-restaurant: 10,amenity-place_of_worship: 5,amenity-fast_food: 5,shop-hairdresser: 5,shop-confectionery: 4,213,804,11
+user_212,amenity-restaurant: 2,shop-supermarket: 1,craft-brewery: 1,shop-bakery: 1,amenity-pharmacy: 1,52,317,6
+user_213,leisure-garden: 20,amenity-college: 2,leisure-park: 2,amenity-pub: 1,leisure-stadium: 1,104,540,6
+user_214,leisure-garden: 9,amenity-fast_food: 7,amenity-restaurant: 7,amenity-cafe: 6,shop-department_store: 4,206,671,13
+user_215,amenity-restaurant: 10,leisure-park: 4,tourism-artwork: 3,amenity-cafe: 2,amenity-fast_food: 2,162,824,16
+user_216,amenity-school: 4,amenity-place_of_worship: 3,amenity-doctors: 2,amenity-pharmacy: 2,shop-supermarket: 2,185,1109,18
+user_217,leisure-garden: 220,shop-supermarket: 2,amenity-pharmacy: 1,amenity-school: 1,,210,781,15
+user_218,tourism-artwork: 16,leisure-park: 2,amenity-cafe: 2,amenity-fast_food: 2,leisure-sports_centre: 1,93,496,7
+user_219,shop-supermarket: 5,amenity-pharmacy: 2,leisure-sports_centre: 2,amenity-fast_food: 2,shop-hairdresser: 2,169,776,16
+user_220,leisure-garden: 35,amenity-restaurant: 6,amenity-cafe: 4,shop-hairdresser: 3,amenity-place_of_worship: 2,249,1361,22
+user_221,amenity-school: 2,amenity-place_of_worship: 1,shop-convenience: 1,leisure-park: 1,natural-wood: 1,37,172,4
+user_222,amenity-fast_food: 8,shop-supermarket: 2,shop-beauty: 2,amenity-bank: 2,shop-confectionery: 1,130,384,9
+user_223,leisure-garden: 85,amenity-fast_food: 4,shop-hairdresser: 2,shop-car_repair: 1,shop-convenience: 1,177,1134,7
+user_224,shop-hairdresser: 6,shop-convenience: 4,amenity-fast_food: 3,amenity-cafe: 2,amenity-restaurant: 2,68,402,8
+user_225,,,,,,128,405,3
+user_226,amenity-park: 1,leisure-park: 1,amenity-bank: 1,shop-supermarket: 1,amenity-cafe: 1,156,1002,11
+user_227,amenity-pub: 1,amenity-cafe: 1,amenity-place_of_worship: 1,leisure-stadium: 1,leisure-track: 1,35,164,4
+user_228,amenity-nightclub: 5,shop-car_repair: 2,shop-convenience: 2,leisure-park: 2,leisure-playground: 2,94,492,9
+user_229,leisure-pitch: 2,leisure-park: 2,amenity-restaurant: 2,amenity-doctors: 1,amenity-school: 1,221,2014,13
+user_230,shop-car_repair: 7,amenity-fast_food: 3,amenity-place_of_worship: 2,shop-supermarket: 1,leisure-park: 1,148,953,8
+user_231,amenity-bank: 3,amenity-bar: 3,amenity-cafe: 2,amenity-townhall: 1,amenity-pub: 1,188,982,4
+user_232,,,,,,35,114,2
+user_233,amenity-fast_food: 14,amenity-restaurant: 10,shop-hairdresser: 10,amenity-cafe: 9,amenity-pharmacy: 5,327,1271,23
+user_234,shop-convenience: 3,shop-confectionery: 2,amenity-cafe: 2,amenity-nightclub: 1,amenity-kindergarten: 1,51,460,5
+user_235,amenity-pharmacy: 1,shop-supermarket: 1,shop-hairdresser: 1,,,164,1259,4
+user_236,,,,,,14,62,2
+user_237,leisure-sports_centre: 3,amenity-school: 2,amenity-place_of_worship: 1,leisure-park: 1,tourism-artwork: 1,120,862,12
+user_238,amenity-place_of_worship: 2,leisure-sports_centre: 1,tourism-artwork: 1,,,127,495,7
+user_239,amenity-courthouse: 4,shop-convenience: 2,shop-hairdresser: 1,leisure-garden: 1,amenity-pub: 1,165,706,10
+user_240,shop-hairdresser: 3,amenity-fast_food: 2,amenity-cafe: 2,shop-supermarket: 2,leisure-stadium: 1,99,779,16
+user_241,amenity-school: 2,,,,,148,525,2
+user_242,natural-wood: 2,leisure-park: 1,leisure-garden: 1,,,189,683,4
+user_243,amenity-fast_food: 12,amenity-cafe: 9,amenity-school: 7,shop-hairdresser: 6,amenity-place_of_worship: 5,356,2455,28
+user_244,leisure-pitch: 11,leisure-swimming_pool: 2,shop-supermarket: 1,leisure-fitness_centre: 1,,41,240,5
+user_245,leisure-park: 1,amenity-cafe: 1,tourism-artwork: 1,amenity-place_of_worship: 1,,17,149,2
+user_246,amenity-cafe: 2,shop-supermarket: 2,amenity-college: 2,shop-convenience: 1,shop-hairdresser: 1,97,679,11
+user_247,amenity-school: 3,amenity-place_of_worship: 3,leisure-park: 3,shop-car_repair: 2,amenity-pub: 1,235,772,9
+user_248,leisure-garden: 10,amenity-community_centre: 3,leisure-park: 2,leisure-swimming_pool: 1,tourism-artwork: 1,279,2143,18
+user_249,leisure-garden: 7,amenity-place_of_worship: 3,amenity-school: 2,shop-car_repair: 1,shop-supermarket: 1,171,1254,13
+user_250,leisure-park: 1,,,,,53,275,6
+user_251,amenity-school: 3,amenity-place_of_worship: 2,leisure-pitch: 2,amenity-restaurant: 2,amenity-pharmacy: 2,68,555,6
+user_252,amenity-place_of_worship: 5,leisure-park: 5,amenity-school: 3,shop-convenience: 2,natural-wood: 2,87,1040,12
+user_253,shop-supermarket: 2,amenity-fast_food: 2,amenity-place_of_worship: 2,amenity-cafe: 1,,163,1008,12
+user_254,amenity-college: 3,tourism-artwork: 2,amenity-university: 1,amenity-cinema: 1,amenity-hospital: 1,54,491,19
+user_255,leisure-park: 7,natural-wood: 5,amenity-school: 3,shop-convenience: 1,,364,1658,19
+user_256,amenity-fast_food: 12,amenity-restaurant: 8,amenity-bank: 6,amenity-cafe: 5,amenity-school: 4,117,801,14
+user_257,amenity-cafe: 6,tourism-artwork: 5,amenity-restaurant: 4,amenity-fast_food: 4,shop-hairdresser: 3,159,1330,25
+user_258,amenity-school: 1,,,,,60,239,3
+user_259,,,,,,108,620,3
+user_260,amenity-school: 4,amenity-place_of_worship: 2,leisure-sports_centre: 2,shop-car_repair: 1,leisure-park: 1,134,634,9
+user_261,leisure-park: 6,leisure-pitch: 5,office-university: 2,amenity-school: 2,amenity-place_of_worship: 1,154,1138,16
+user_262,office-university: 7,amenity-university: 4,amenity-school: 2,amenity-cafe: 2,amenity-restaurant: 2,60,335,9
+user_263,leisure-park: 4,shop-convenience: 2,natural-wood: 2,amenity-bank: 2,amenity-pub: 1,77,486,12
+user_264,leisure-pitch: 1,natural-grassland: 1,,,,29,187,4
+user_265,amenity-fast_food: 10,amenity-place_of_worship: 4,amenity-pharmacy: 2,amenity-bank: 2,amenity-restaurant: 2,163,1027,18
+user_266,amenity-school: 2,leisure-sports_centre: 2,,,,144,843,11
+user_267,amenity-school: 2,amenity-doctors: 1,shop-supermarket: 1,,,38,192,4
+user_268,amenity-fast_food: 2,leisure-park: 1,shop-hairdresser: 1,,,97,308,3
+user_269,amenity-school: 2,amenity-college: 1,amenity-police: 1,amenity-university: 1,amenity-pub: 1,135,640,12
+user_270,amenity-cafe: 4,amenity-university: 3,amenity-bar: 2,office-university: 1,amenity-college: 1,53,527,6
+user_271,shop-supermarket: 1,amenity-pub: 1,,,,31,176,3
+user_272,amenity-fast_food: 12,leisure-park: 5,shop-supermarket: 5,amenity-bank: 3,amenity-place_of_worship: 3,253,2017,22
+user_273,amenity-school: 6,leisure-pitch: 2,leisure-sports_centre: 1,,,260,1311,9
+user_274,leisure-garden: 27,tourism-artwork: 4,amenity-restaurant: 3,shop-convenience: 2,historic-memorial: 2,82,365,5
+user_275,amenity-theatre: 5,tourism-artwork: 3,leisure-park: 2,leisure-garden: 2,shop-hairdresser: 2,292,809,9
+user_276,historic-archaeological_site: 2,natural-wood: 2,leisure-park: 1,leisure-playground: 1,leisure-pitch: 1,152,735,6
+user_277,amenity-doctors: 1,amenity-cafe: 1,,,,77,572,5
+user_278,amenity-school: 1,amenity-place_of_worship: 1,,,,211,1142,10
+user_279,amenity-restaurant: 1,leisure-park: 1,,,,43,136,4
+user_280,amenity-college: 3,amenity-place_of_worship: 3,amenity-school: 2,amenity-university: 2,shop-car_repair: 1,34,354,7
+user_281,,,,,,1,0,0
+user_282,leisure-garden: 13,amenity-fast_food: 2,amenity-bank: 2,shop-supermarket: 1,leisure-park: 1,221,196,3
+user_283,leisure-park: 2,shop-convenience: 1,,,,84,363,6
+user_284,amenity-fast_food: 3,leisure-park: 2,amenity-university: 2,shop-convenience: 2,amenity-cafe: 1,159,1242,14
+user_285,,,,,,39,87,0
+user_286,amenity-fast_food: 6,amenity-restaurant: 4,shop-convenience: 4,shop-confectionery: 4,amenity-cafe: 3,27,134,6
+user_287,leisure-garden: 50,amenity-fast_food: 13,shop-supermarket: 5,shop-department_store: 4,amenity-cafe: 4,306,1197,15
+user_288,amenity-fast_food: 1,leisure-park: 1,,,,109,327,4
+user_289,shop-car_repair: 3,shop-supermarket: 3,amenity-school: 1,leisure-playground: 1,amenity-pub: 1,208,1569,13
+user_290,leisure-park: 4,natural-wood: 3,amenity-cafe: 2,amenity-restaurant: 2,amenity-bar: 2,120,584,14
+user_291,leisure-park: 1,leisure-sports_centre: 1,leisure-swimming_pool: 1,amenity-restaurant: 1,amenity-college: 1,109,448,3
+user_292,amenity-pub: 6,amenity-fast_food: 6,leisure-park: 4,amenity-restaurant: 3,shop-car_repair: 2,225,1199,22
+user_293,leisure-garden: 11,amenity-cafe: 6,amenity-restaurant: 6,shop-supermarket: 3,shop-hairdresser: 3,138,644,15
+user_294,leisure-garden: 20,amenity-restaurant: 2,shop-supermarket: 2,amenity-fast_food: 2,leisure-park: 2,330,1094,13
+user_295,leisure-sports_centre: 4,amenity-university: 1,,,,24,135,3
+user_296,leisure-park: 5,amenity-place_of_worship: 4,shop-supermarket: 3,leisure-garden: 3,leisure-stadium: 2,293,1820,21
+user_297,leisure-park: 2,tourism-attraction: 1,amenity-university: 1,natural-grassland: 1,leisure-nature_reserve: 1,43,223,5
+user_298,amenity-fast_food: 10,amenity-cafe: 6,leisure-park: 4,amenity-restaurant: 4,shop-department_store: 4,248,1197,13
+user_299,leisure-garden: 13,amenity-restaurant: 5,amenity-place_of_worship: 3,leisure-pitch: 3,shop-supermarket: 2,281,2270,13
+user_300,leisure-swimming_pool: 3,shop-supermarket: 2,amenity-school: 1,natural-wood: 1,,105,459,7
+user_301,amenity-place_of_worship: 3,shop-supermarket: 2,amenity-fast_food: 2,leisure-garden: 2,amenity-pub: 1,102,715,14
+user_302,amenity-hospital: 2,amenity-school: 1,,,,43,381,6
+user_303,amenity-fast_food: 5,shop-hairdresser: 3,amenity-school: 2,shop-convenience: 2,amenity-place_of_worship: 1,177,955,13
+user_304,amenity-fast_food: 7,amenity-restaurant: 6,amenity-pub: 5,leisure-park: 4,shop-supermarket: 4,330,1686,29
+user_305,amenity-place_of_worship: 1,amenity-pub: 1,,,,70,315,4
+user_306,historic-memorial: 6,tourism-artwork: 4,leisure-pitch: 2,historic-monument: 2,leisure-garden: 2,57,547,10
+user_307,leisure-park: 4,amenity-nightclub: 2,amenity-fast_food: 1,shop-convenience: 1,shop-hairdresser: 1,312,1682,22
+user_308,amenity-restaurant: 3,shop-hairdresser: 3,amenity-cafe: 2,tourism-artwork: 2,amenity-fast_food: 2,118,489,9
+user_309,amenity-fast_food: 2,amenity-pub: 1,shop-supermarket: 1,shop-convenience: 1,amenity-restaurant: 1,163,293,4
+user_310,amenity-bank: 4,leisure-pitch: 2,amenity-restaurant: 2,leisure-park: 1,amenity-pub: 1,116,288,7
+user_311,leisure-park: 8,amenity-school: 2,leisure-sports_centre: 2,leisure-pitch: 2,amenity-place_of_worship: 2,75,646,20
+user_312,leisure-playground: 6,amenity-fast_food: 4,amenity-school: 3,shop-bakery: 3,shop-supermarket: 3,323,1170,16
+user_313,amenity-restaurant: 6,shop-hairdresser: 2,shop-beauty: 2,amenity-pub: 1,amenity-bar: 1,151,845,10
+user_314,shop-convenience: 5,amenity-restaurant: 4,amenity-fast_food: 3,amenity-pharmacy: 3,shop-confectionery: 3,121,601,9
+user_315,amenity-fast_food: 9,amenity-cafe: 6,shop-supermarket: 4,shop-hairdresser: 3,amenity-bank: 2,248,841,15
+user_316,amenity-fast_food: 5,amenity-doctors: 4,shop-bakery: 2,leisure-park: 2,shop-supermarket: 2,88,357,10
+user_317,amenity-restaurant: 6,shop-supermarket: 3,amenity-place_of_worship: 3,amenity-pub: 3,amenity-cafe: 3,151,473,8
+user_318,amenity-school: 2,amenity-fast_food: 2,shop-convenience: 1,amenity-cafe: 1,shop-hairdresser: 1,93,434,7
+user_319,shop-car_repair: 4,amenity-fast_food: 4,amenity-hospital: 2,leisure-sports_centre: 1,amenity-restaurant: 1,311,1255,7
+user_320,leisure-park: 5,amenity-cafe: 4,shop-supermarket: 4,amenity-school: 3,amenity-place_of_worship: 3,158,545,15
+user_321,amenity-restaurant: 5,amenity-fast_food: 4,shop-supermarket: 3,leisure-park: 3,amenity-place_of_worship: 2,204,893,10
+user_322,shop-hairdresser: 2,amenity-cafe: 2,leisure-pitch: 2,amenity-pharmacy: 1,amenity-restaurant: 1,89,395,5
+user_323,leisure-park: 4,amenity-school: 1,amenity-embassy: 1,leisure-playground: 1,amenity-restaurant: 1,37,275,9
+user_324,amenity-bar: 2,amenity-university: 2,shop-bakery: 1,amenity-pub: 1,leisure-garden: 1,37,337,8
+user_325,leisure-park: 2,amenity-pub: 2,shop-convenience: 2,natural-wood: 2,shop-supermarket: 1,121,476,8
+user_326,,,,,,33,97,1
+user_327,amenity-university: 1,amenity-place_of_worship: 1,,,,95,701,4
+user_328,amenity-place_of_worship: 2,amenity-school: 1,,,,47,370,3
+user_329,office-university: 3,amenity-university: 1,shop-hairdresser: 1,leisure-park: 1,shop-supermarket: 1,23,158,4
+user_330,leisure-playground: 6,leisure-park: 4,amenity-fast_food: 3,amenity-bank: 3,tourism-gallery: 2,64,483,10
+user_331,amenity-university: 3,amenity-fast_food: 3,shop-convenience: 2,historic-memorial: 2,shop-hairdresser: 1,78,405,8
+user_332,amenity-hospital: 2,amenity-place_of_worship: 2,amenity-doctors: 2,amenity-pharmacy: 2,amenity-fast_food: 1,138,965,9
+user_333,leisure-garden: 5,leisure-pitch: 1,amenity-pub: 1,shop-convenience: 1,amenity-school: 1,56,273,6
+user_334,leisure-park: 1,amenity-place_of_worship: 1,leisure-sports_centre: 1,leisure-pitch: 1,leisure-garden: 1,55,249,4
+user_335,amenity-school: 2,amenity-place_of_worship: 1,amenity-university: 1,,,83,320,7
+user_336,amenity-restaurant: 14,amenity-fast_food: 7,amenity-pub: 5,shop-hairdresser: 4,amenity-school: 3,126,907,14
+user_337,amenity-university: 3,amenity-school: 1,amenity-fast_food: 1,shop-car_repair: 1,leisure-stadium: 1,160,915,8
+user_338,amenity-cafe: 9,amenity-restaurant: 8,amenity-school: 5,amenity-fast_food: 5,amenity-bank: 5,234,1800,19
+user_339,leisure-pitch: 4,amenity-pub: 1,amenity-bar: 1,leisure-sports_centre: 1,,80,625,4
+user_340,amenity-cafe: 5,shop-hairdresser: 5,amenity-restaurant: 4,amenity-fast_food: 4,leisure-park: 3,293,1954,26
+user_341,amenity-place_of_worship: 2,leisure-park: 1,amenity-college: 1,,,27,175,5
+user_342,,,,,,26,225,5
+user_343,leisure-pitch: 2,amenity-school: 2,leisure-playground: 1,tourism-attraction: 1,amenity-university: 1,63,308,5
+user_344,shop-convenience: 1,,,,,87,833,3
+user_345,tourism-artwork: 6,amenity-school: 3,amenity-courthouse: 2,leisure-park: 2,amenity-hospital: 1,97,851,15
+user_346,natural-wood: 4,amenity-pub: 3,amenity-school: 1,amenity-nightclub: 1,amenity-place_of_worship: 1,120,901,23
+user_347,leisure-park: 2,natural-grassland: 2,natural-wood: 1,amenity-restaurant: 1,,35,215,4
+user_348,shop-car_repair: 3,leisure-park: 1,,,,42,271,4
+user_349,shop-hairdresser: 5,amenity-fast_food: 3,amenity-pharmacy: 3,shop-convenience: 3,shop-supermarket: 2,77,549,7
+user_350,amenity-restaurant: 2,shop-car_repair: 2,amenity-arts_centre: 1,amenity-pub: 1,amenity-cinema: 1,66,334,3
+user_351,amenity-restaurant: 5,leisure-park: 3,amenity-place_of_worship: 3,shop-confectionery: 3,shop-car_repair: 2,102,735,9
+user_352,amenity-restaurant: 3,amenity-fast_food: 3,shop-convenience: 3,shop-hairdresser: 3,amenity-pharmacy: 2,95,694,11
+user_353,leisure-garden: 32,leisure-park: 4,shop-supermarket: 3,amenity-pub: 3,amenity-fast_food: 2,194,1069,15
+user_354,,,,,,47,235,5
+user_355,amenity-cafe: 5,shop-car_repair: 3,amenity-fast_food: 3,tourism-artwork: 2,amenity-dentist: 2,123,843,10
+user_356,amenity-cafe: 1,,,,,67,429,6
+user_357,amenity-fast_food: 5,shop-car_repair: 3,shop-department_store: 2,amenity-cafe: 2,amenity-bank: 1,116,653,12
+user_358,leisure-swimming_pool: 1,leisure-garden: 1,historic-monument: 1,,,55,368,5
+user_359,amenity-place_of_worship: 1,amenity-kindergarten: 1,amenity-school: 1,,,78,530,6
+user_360,amenity-courthouse: 5,amenity-bank: 3,amenity-cafe: 3,leisure-park: 3,historic-memorial: 2,39,319,7
+user_361,leisure-park: 1,leisure-playground: 1,,,,50,227,1
+user_362,leisure-garden: 54,natural-wood: 11,amenity-place_of_worship: 2,amenity-cafe: 2,leisure-pitch: 2,162,597,9
+user_363,amenity-school: 2,amenity-pub: 1,amenity-university: 1,amenity-place_of_worship: 1,amenity-restaurant: 1,77,904,5
+user_364,leisure-park: 2,amenity-place_of_worship: 2,shop-car_repair: 1,amenity-pub: 1,amenity-fast_food: 1,64,374,7
+user_365,amenity-fast_food: 10,shop-supermarket: 7,amenity-cafe: 7,amenity-restaurant: 6,tourism-artwork: 5,273,1265,22
+user_366,leisure-garden: 7,amenity-cafe: 2,amenity-cinema: 1,amenity-bank: 1,shop-beauty: 1,147,998,7
+user_367,amenity-school: 2,amenity-place_of_worship: 2,amenity-doctors: 1,shop-supermarket: 1,,99,600,9
+user_368,amenity-restaurant: 15,amenity-school: 7,amenity-fast_food: 6,amenity-pharmacy: 4,shop-hairdresser: 4,268,1684,25
+user_369,amenity-university: 1,,,,,58,400,6
+user_370,shop-supermarket: 2,amenity-place_of_worship: 2,shop-hardware: 1,amenity-pharmacy: 1,amenity-school: 1,209,1152,4
+user_371,amenity-fast_food: 14,shop-hairdresser: 6,shop-supermarket: 6,amenity-school: 5,amenity-cafe: 5,281,1148,24
+user_372,natural-wood: 1,,,,,94,270,3
+user_373,amenity-restaurant: 3,amenity-cafe: 3,amenity-school: 3,shop-supermarket: 2,leisure-sports_centre: 2,230,1185,17
+user_374,amenity-fast_food: 5,shop-supermarket: 4,amenity-pub: 4,amenity-school: 3,amenity-place_of_worship: 3,227,779,14
+user_375,leisure-park: 3,amenity-pub: 2,amenity-cafe: 2,natural-wood: 1,leisure-playground: 1,276,1014,15
+user_376,leisure-park: 1,natural-wood: 1,amenity-school: 1,leisure-garden: 1,,71,236,5
+user_377,leisure-park: 1,leisure-sports_centre: 1,leisure-swimming_pool: 1,,,68,469,6
+user_378,amenity-fast_food: 9,amenity-restaurant: 7,shop-convenience: 4,amenity-pharmacy: 4,amenity-cafe: 3,72,565,8
+user_379,amenity-school: 5,leisure-park: 3,amenity-college: 2,amenity-park: 2,amenity-place_of_worship: 1,144,719,20
+user_380,shop-department_store: 5,leisure-pitch: 4,amenity-restaurant: 4,shop-confectionery: 4,leisure-park: 3,214,1461,21
+user_381,tourism-artwork: 13,amenity-fast_food: 2,leisure-pitch: 1,leisure-track: 1,amenity-school: 1,69,271,5
+user_382,amenity-hospital: 1,amenity-school: 1,,,,50,342,2
+user_383,historic-memorial: 12,tourism-artwork: 6,leisure-garden: 3,historic-monument: 2,leisure-park: 2,93,902,7
+user_384,amenity-school: 2,,,,,142,991,14
+user_385,amenity-fast_food: 12,amenity-restaurant: 7,shop-hairdresser: 4,shop-department_store: 4,leisure-park: 3,216,1479,21
+user_386,amenity-cafe: 6,amenity-restaurant: 3,shop-supermarket: 2,shop-hairdresser: 2,shop-confectionery: 2,75,328,7
+user_387,leisure-park: 5,shop-car_repair: 4,amenity-place_of_worship: 3,amenity-school: 2,amenity-restaurant: 2,147,1284,17
+user_388,amenity-school: 4,tourism-artwork: 4,amenity-place_of_worship: 3,leisure-pitch: 2,shop-car_repair: 1,94,569,9
+user_389,amenity-community_centre: 1,amenity-fast_food: 1,shop-convenience: 1,shop-hardware: 1,leisure-park: 1,44,262,5
+user_390,amenity-school: 3,amenity-place_of_worship: 2,,,,67,445,8
+user_391,,,,,,12,104,2
+user_392,amenity-fast_food: 2,amenity-school: 1,amenity-pub: 1,shop-supermarket: 1,shop-convenience: 1,89,601,6
+user_393,leisure-park: 4,amenity-kindergarten: 3,amenity-school: 2,historic-ruins: 1,leisure-pitch: 1,162,1224,15
+user_394,office-university: 3,amenity-fast_food: 2,shop-supermarket: 2,amenity-pub: 1,amenity-cafe: 1,258,1330,9
+user_395,leisure-park: 2,amenity-school: 2,shop-supermarket: 1,amenity-pharmacy: 1,,172,819,6
+user_396,leisure-garden: 21,leisure-park: 4,amenity-park: 2,amenity-community_centre: 1,amenity-school: 1,106,793,13
+user_397,leisure-garden: 37,leisure-pitch: 2,amenity-place_of_worship: 1,amenity-restaurant: 1,amenity-school: 1,103,557,6
+user_398,amenity-fast_food: 14,shop-hairdresser: 9,shop-convenience: 9,leisure-park: 6,amenity-cafe: 5,263,1658,22
+user_399,amenity-fast_food: 11,shop-hairdresser: 5,shop-convenience: 5,shop-supermarket: 3,amenity-bank: 2,80,598,5
+user_400,tourism-artwork: 13,amenity-restaurant: 7,amenity-fast_food: 6,shop-beauty: 5,amenity-cafe: 4,271,1264,18
+user_401,leisure-swimming_pool: 3,leisure-park: 1,amenity-police: 1,shop-supermarket: 1,amenity-cafe: 1,78,418,7
+user_402,leisure-park: 4,amenity-place_of_worship: 3,tourism-attraction: 1,natural-wood: 1,amenity-school: 1,107,713,13
+user_403,leisure-sports_centre: 1,amenity-kindergarten: 1,,,,32,149,3
+user_404,amenity-school: 3,amenity-place_of_worship: 2,leisure-sports_centre: 1,leisure-park: 1,leisure-playground: 1,182,1282,10
+user_405,amenity-fast_food: 4,amenity-place_of_worship: 4,shop-hairdresser: 2,shop-convenience: 2,tourism-artwork: 2,98,546,7
+user_406,amenity-restaurant: 2,amenity-fast_food: 2,shop-confectionery: 2,amenity-hospital: 1,shop-supermarket: 1,251,1179,9
+user_407,leisure-park: 2,shop-supermarket: 2,amenity-fast_food: 2,amenity-place_of_worship: 1,amenity-school: 1,24,205,5
+user_408,,,,,,13,21,0
+user_409,amenity-restaurant: 3,leisure-pitch: 2,amenity-school: 2,leisure-sports_centre: 1,leisure-swimming_pool: 1,100,558,12
+user_410,amenity-fast_food: 10,shop-car_repair: 5,amenity-restaurant: 4,shop-supermarket: 4,shop-hairdresser: 3,106,696,10
+user_411,amenity-place_of_worship: 6,amenity-fast_food: 6,amenity-school: 5,shop-car_repair: 4,shop-hairdresser: 3,190,1081,19
+user_412,amenity-school: 4,amenity-place_of_worship: 4,shop-confectionery: 3,leisure-park: 1,shop-supermarket: 1,40,389,6
+user_413,amenity-place_of_worship: 3,amenity-hospital: 1,amenity-cinema: 1,,,84,642,9
+user_414,amenity-school: 4,leisure-park: 4,leisure-pitch: 4,historic-memorial: 2,amenity-cafe: 2,81,492,13
+user_415,amenity-school: 4,amenity-restaurant: 2,historic-memorial: 1,amenity-bank: 1,amenity-bar: 1,119,920,11
+user_416,shop-supermarket: 2,amenity-school: 2,leisure-park: 1,leisure-pitch: 1,natural-wood: 1,72,366,7
+user_417,leisure-park: 3,amenity-place_of_worship: 2,amenity-hospital: 2,shop-supermarket: 2,historic-memorial: 1,215,663,8
+user_418,amenity-fast_food: 8,shop-hairdresser: 4,leisure-park: 3,amenity-restaurant: 3,shop-supermarket: 3,115,1021,19
+user_419,leisure-garden: 9,amenity-fast_food: 5,shop-hairdresser: 3,amenity-bank: 2,tourism-artwork: 1,97,578,8
+user_420,amenity-place_of_worship: 3,amenity-fast_food: 2,amenity-bank: 1,amenity-school: 1,,178,653,7
+user_421,amenity-place_of_worship: 1,amenity-hospital: 1,,,,30,171,4
+user_422,leisure-park: 2,amenity-community_centre: 1,shop-supermarket: 1,amenity-school: 1,,70,385,5
+user_423,office-university: 2,amenity-university: 1,,,,23,144,3
+user_424,amenity-pub: 2,natural-wood: 2,leisure-stadium: 1,leisure-park: 1,leisure-pitch: 1,108,425,7
+user_425,shop-supermarket: 2,amenity-pub: 1,amenity-place_of_worship: 1,,,205,822,12
+user_426,,,,,,41,188,2
+user_427,tourism-artwork: 7,amenity-fast_food: 5,amenity-cafe: 4,leisure-park: 4,amenity-school: 3,211,1357,16
+user_428,amenity-fast_food: 3,amenity-college: 2,amenity-school: 2,shop-convenience: 2,tourism-artwork: 2,94,614,10
+user_429,,,,,,28,186,6
+user_430,shop-supermarket: 1,amenity-place_of_worship: 1,amenity-fast_food: 1,amenity-bar: 1,tourism-artwork: 1,61,164,3
+user_431,historic-ruins: 17,leisure-garden: 17,amenity-fast_food: 7,leisure-park: 5,amenity-place_of_worship: 5,229,866,13
+user_432,leisure-park: 3,amenity-school: 3,historic-memorial: 1,amenity-doctors: 1,,84,575,7
+user_433,amenity-school: 4,shop-supermarket: 4,shop-hairdresser: 2,amenity-pharmacy: 2,leisure-garden: 1,206,1293,13
+user_434,leisure-park: 9,amenity-school: 8,leisure-pitch: 5,amenity-bar: 4,tourism-artwork: 4,216,2266,41
+user_435,shop-supermarket: 2,amenity-restaurant: 2,leisure-park: 1,tourism-artwork: 1,amenity-school: 1,74,322,5
+user_436,leisure-pitch: 3,amenity-university: 2,shop-car_repair: 2,amenity-cafe: 2,amenity-kindergarten: 1,72,143,3
+user_437,leisure-garden: 5,leisure-park: 5,amenity-fast_food: 3,historic-ruins: 3,amenity-cafe: 2,188,1169,14
+user_438,leisure-park: 2,amenity-school: 1,leisure-swimming_pool: 1,,,52,314,5
+user_439,shop-car_repair: 1,,,,,4,16,1
+user_440,amenity-fast_food: 8,shop-supermarket: 7,amenity-school: 5,shop-hairdresser: 3,amenity-pharmacy: 3,260,1024,21
+user_441,amenity-fast_food: 1,,,,,39,421,9
+user_442,leisure-park: 3,amenity-university: 3,amenity-place_of_worship: 2,amenity-college: 2,amenity-fast_food: 2,86,462,8
+user_443,amenity-bank: 1,leisure-park: 1,shop-hairdresser: 1,amenity-restaurant: 1,shop-supermarket: 1,91,678,7
+user_444,leisure-park: 3,amenity-place_of_worship: 2,natural-grassland: 2,shop-supermarket: 2,amenity-university: 1,181,991,18
+user_445,amenity-restaurant: 5,amenity-fast_food: 5,amenity-bank: 4,amenity-pub: 3,shop-convenience: 3,161,1704,21
+user_446,amenity-pub: 1,amenity-fast_food: 1,shop-hairdresser: 1,,,56,310,11
+user_447,leisure-park: 2,natural-wood: 1,amenity-nightclub: 1,,,68,288,7
+user_448,leisure-garden: 48,amenity-fast_food: 8,natural-wood: 3,shop-convenience: 3,shop-hairdresser: 3,155,1276,36
+user_449,amenity-place_of_worship: 3,amenity-fast_food: 3,leisure-park: 2,amenity-school: 2,amenity-community_centre: 2,85,725,12
+user_450,amenity-restaurant: 2,amenity-cafe: 1,amenity-pharmacy: 1,shop-convenience: 1,,204,1223,13
+user_451,amenity-school: 2,,,,,112,891,6
+user_452,tourism-artwork: 6,leisure-park: 3,amenity-fast_food: 2,amenity-hospital: 2,amenity-place_of_worship: 2,203,1476,19
+user_453,amenity-school: 3,amenity-place_of_worship: 3,amenity-fast_food: 3,amenity-restaurant: 2,shop-car_repair: 2,142,537,10
+user_454,amenity-place_of_worship: 4,amenity-school: 4,amenity-cafe: 3,shop-supermarket: 2,shop-beauty: 2,168,717,11
+user_455,leisure-garden: 6,amenity-restaurant: 6,amenity-university: 5,leisure-park: 3,amenity-kindergarten: 2,226,898,14
+user_456,amenity-doctors: 3,shop-car_repair: 1,amenity-restaurant: 1,amenity-pharmacy: 1,leisure-park: 1,49,265,4
+user_457,amenity-pub: 2,shop-supermarket: 2,shop-car_repair: 1,shop-convenience: 1,amenity-bar: 1,39,211,5
+user_458,leisure-pitch: 1,amenity-doctors: 1,amenity-cafe: 1,amenity-fast_food: 1,amenity-restaurant: 1,77,578,6
+user_459,shop-car_repair: 4,leisure-garden: 3,amenity-nightclub: 3,tourism-artwork: 3,amenity-doctors: 2,232,897,21
+user_460,,,,,,69,464,6
+user_461,natural-wood: 5,leisure-park: 3,leisure-pitch: 3,amenity-school: 2,amenity-nightclub: 1,60,316,8
+user_462,shop-car_repair: 1,,,,,68,77,1
+user_463,amenity-fast_food: 6,amenity-university: 3,shop-supermarket: 2,tourism-artwork: 2,leisure-park: 1,100,768,10
+user_464,shop-supermarket: 1,amenity-school: 1,,,,95,328,3
+user_465,leisure-pitch: 6,amenity-school: 1,leisure-park: 1,leisure-sports_centre: 1,,92,312,5
+user_466,amenity-school: 1,amenity-park: 1,leisure-park: 1,amenity-place_of_worship: 1,shop-supermarket: 1,254,595,6
+user_467,leisure-garden: 7,leisure-park: 1,amenity-place_of_worship: 1,,,140,487,3
+user_468,amenity-restaurant: 1,amenity-bank: 1,,,,85,405,5
+user_469,tourism-artwork: 2,amenity-fast_food: 2,amenity-school: 1,leisure-garden: 1,amenity-bar: 1,196,383,5
+user_470,amenity-bank: 3,amenity-pharmacy: 1,amenity-hospital: 1,amenity-cafe: 1,amenity-marketplace: 1,205,750,10
+user_471,amenity-school: 3,leisure-pitch: 3,amenity-fast_food: 2,amenity-place_of_worship: 1,tourism-artwork: 1,155,928,15
+user_472,office-university: 3,amenity-university: 1,,,,27,143,3
+user_473,leisure-park: 2,amenity-pharmacy: 1,amenity-doctors: 1,amenity-pub: 1,amenity-place_of_worship: 1,50,449,9
+user_474,leisure-pitch: 2,leisure-garden: 2,shop-supermarket: 1,amenity-school: 1,shop-convenience: 1,75,379,10
+user_475,amenity-school: 1,,,,,54,390,6
+user_476,tourism-artwork: 3,amenity-place_of_worship: 3,amenity-hospital: 1,amenity-cafe: 1,shop-supermarket: 1,70,378,8
+user_477,amenity-fast_food: 7,shop-supermarket: 6,shop-confectionery: 6,amenity-restaurant: 6,amenity-cafe: 5,238,783,17
+user_478,shop-supermarket: 2,shop-hairdresser: 2,leisure-garden: 2,amenity-restaurant: 1,amenity-bank: 1,190,639,8
+user_479,amenity-cafe: 3,amenity-restaurant: 2,amenity-fast_food: 2,historic-memorial: 1,shop-hairdresser: 1,31,150,4
+user_480,leisure-garden: 13,leisure-park: 4,tourism-artwork: 3,amenity-hospital: 2,amenity-university: 2,111,337,7
+user_481,amenity-fast_food: 11,shop-hairdresser: 5,amenity-school: 4,amenity-cafe: 3,amenity-restaurant: 3,64,409,10
+user_482,shop-supermarket: 1,,,,,37,237,4
+user_483,amenity-fast_food: 7,natural-wood: 3,shop-convenience: 3,amenity-restaurant: 3,amenity-pharmacy: 2,156,524,11
+user_484,amenity-school: 5,amenity-pharmacy: 3,leisure-pitch: 2,amenity-hospital: 1,amenity-place_of_worship: 1,75,345,10
+user_485,tourism-artwork: 11,amenity-cafe: 10,amenity-restaurant: 9,amenity-fast_food: 4,historic-memorial: 4,153,884,17
+user_486,amenity-cafe: 4,amenity-fast_food: 3,amenity-bank: 3,shop-confectionery: 2,shop-supermarket: 1,40,295,9
+user_487,leisure-park: 2,shop-supermarket: 2,amenity-place_of_worship: 1,amenity-pub: 1,amenity-fast_food: 1,130,378,9
+user_488,leisure-garden: 11,leisure-park: 4,shop-supermarket: 3,amenity-school: 2,amenity-park: 2,169,616,14
+user_489,amenity-place_of_worship: 4,amenity-school: 3,shop-supermarket: 1,shop-convenience: 1,amenity-bank: 1,67,551,5
+user_490,amenity-place_of_worship: 1,leisure-sports_centre: 1,tourism-artwork: 1,amenity-community_centre: 1,amenity-school: 1,48,370,4
+user_491,leisure-garden: 13,amenity-school: 1,leisure-park: 1,leisure-playground: 1,,46,278,6
+user_492,amenity-cinema: 1,amenity-casino: 1,leisure-fitness_centre: 1,amenity-bar: 1,amenity-place_of_worship: 1,61,394,5
+user_493,amenity-fast_food: 12,amenity-cafe: 10,amenity-restaurant: 6,tourism-artwork: 6,shop-car_repair: 4,70,394,11
+user_494,leisure-park: 1,shop-tattoo: 1,leisure-sports_centre: 1,amenity-bar: 1,amenity-restaurant: 1,84,419,5
+user_495,leisure-park: 5,natural-wood: 2,shop-car_repair: 1,leisure-sports_centre: 1,tourism-artwork: 1,81,401,11
+user_496,amenity-bank: 3,amenity-restaurant: 2,shop-supermarket: 1,amenity-cinema: 1,historic-memorial: 1,128,500,11
+user_497,,,,,,66,437,5
+user_498,amenity-pharmacy: 1,amenity-doctors: 1,,,,79,445,4
+user_499,amenity-school: 1,amenity-pub: 1,amenity-restaurant: 1,,,26,152,3
+user_500,leisure-pitch: 2,leisure-park: 1,amenity-school: 1,,,100,553,4
+user_501,amenity-university: 1,amenity-dentist: 1,amenity-kindergarten: 1,leisure-park: 1,,95,254,3
+user_502,amenity-school: 2,leisure-playground: 1,leisure-park: 1,amenity-pub: 1,,96,755,11
+user_503,leisure-park: 4,amenity-fast_food: 4,shop-car_repair: 4,shop-convenience: 3,leisure-sports_centre: 2,193,819,12
+user_504,amenity-school: 2,leisure-garden: 1,amenity-university: 1,historic-memorial: 1,leisure-park: 1,35,155,3
+user_505,leisure-garden: 100,amenity-fast_food: 2,amenity-bank: 2,amenity-community_centre: 1,historic-memorial: 1,120,353,8
+user_506,amenity-fast_food: 2,amenity-place_of_worship: 1,amenity-restaurant: 1,amenity-pharmacy: 1,shop-beauty: 1,105,220,4
+user_507,leisure-park: 6,shop-convenience: 4,amenity-restaurant: 4,amenity-school: 3,shop-supermarket: 3,191,1497,16
+user_508,leisure-garden: 21,natural-wood: 1,amenity-school: 1,amenity-place_of_worship: 1,amenity-kindergarten: 1,73,331,6
+user_509,,,,,,96,521,7
+user_510,amenity-fast_food: 5,amenity-restaurant: 2,shop-car_repair: 2,amenity-place_of_worship: 1,amenity-school: 1,146,494,7
+user_511,amenity-university: 2,,,,,61,322,2
+user_512,shop-supermarket: 9,leisure-stadium: 2,leisure-park: 1,amenity-place_of_worship: 1,amenity-fast_food: 1,136,961,17
+user_513,,,,,,59,319,2
+user_514,amenity-school: 1,,,,,37,166,3
+user_515,amenity-school: 2,amenity-doctors: 2,amenity-university: 1,amenity-cafe: 1,amenity-brothel: 1,203,464,4
+user_516,amenity-police: 1,amenity-restaurant: 1,shop-supermarket: 1,,,41,128,3
+user_517,amenity-fast_food: 10,amenity-cafe: 9,shop-hairdresser: 5,tourism-artwork: 4,amenity-university: 3,143,1163,14
+user_518,amenity-restaurant: 3,tourism-artwork: 3,amenity-bar: 2,leisure-garden: 2,amenity-cafe: 1,57,182,6
+user_519,amenity-place_of_worship: 2,shop-supermarket: 2,leisure-pitch: 2,leisure-park: 1,amenity-hospital: 1,81,627,10
+user_520,shop-car_repair: 2,amenity-school: 2,natural-grassland: 1,amenity-kindergarten: 1,,120,552,5
+user_521,shop-hairdresser: 7,amenity-fast_food: 6,amenity-pharmacy: 3,shop-convenience: 3,amenity-school: 2,152,777,8
+user_522,amenity-fast_food: 15,amenity-restaurant: 6,amenity-cafe: 5,shop-confectionery: 3,shop-supermarket: 3,125,1128,9
+user_523,,,,,,28,41,0
+user_524,amenity-hospital: 4,amenity-school: 4,leisure-pitch: 3,historic-memorial: 2,amenity-clinic: 2,188,2020,15
+user_525,leisure-pitch: 3,leisure-park: 2,leisure-sports_centre: 1,amenity-kindergarten: 1,leisure-track: 1,96,885,6
+user_526,amenity-pub: 1,amenity-school: 1,shop-supermarket: 1,,,18,77,2
+user_527,amenity-fast_food: 1,amenity-school: 1,amenity-place_of_worship: 1,leisure-garden: 1,,50,199,5
+user_528,amenity-place_of_worship: 2,shop-supermarket: 2,leisure-park: 1,shop-car_repair: 1,amenity-dentist: 1,124,520,6
+user_529,shop-convenience: 1,leisure-park: 1,natural-wood: 1,,,38,314,3
+user_530,leisure-garden: 1,tourism-artwork: 1,,,,53,256,5
+user_531,amenity-fast_food: 3,shop-department_store: 1,amenity-pharmacy: 1,shop-supermarket: 1,shop-hairdresser: 1,72,328,4
+user_532,amenity-fast_food: 11,tourism-artwork: 5,historic-memorial: 5,amenity-restaurant: 5,amenity-cafe: 4,91,404,11
+user_533,shop-car_repair: 2,amenity-place_of_worship: 2,amenity-school: 1,amenity-pharmacy: 1,amenity-fast_food: 1,45,231,3
+user_534,office-university: 3,amenity-university: 1,,,,66,319,5
+user_535,amenity-kindergarten: 3,amenity-university: 3,leisure-garden: 3,leisure-park: 2,leisure-pitch: 1,150,532,7
+user_536,amenity-fast_food: 3,shop-supermarket: 2,amenity-bar: 1,amenity-restaurant: 1,shop-convenience: 1,189,789,12
+user_537,amenity-fast_food: 6,amenity-cafe: 4,shop-confectionery: 3,shop-convenience: 3,shop-hairdresser: 3,27,157,4
+user_538,leisure-pitch: 1,,,,,48,246,4
+user_539,office-university: 3,amenity-university: 1,,,,28,152,4
+user_540,amenity-pub: 1,,,,,28,85,3
+user_541,amenity-fast_food: 3,amenity-place_of_worship: 2,shop-supermarket: 1,amenity-bank: 1,shop-hairdresser: 1,139,975,7
+user_542,natural-wood: 2,amenity-community_centre: 1,amenity-pharmacy: 1,amenity-doctors: 1,amenity-pub: 1,150,493,9
+user_543,amenity-school: 3,amenity-community_centre: 1,leisure-park: 1,amenity-place_of_worship: 1,historic-memorial: 1,148,820,8
+user_544,shop-car_repair: 1,amenity-nightclub: 1,historic-memorial: 1,leisure-track: 1,amenity-pub: 1,124,499,4
+user_545,amenity-fast_food: 2,amenity-school: 2,shop-supermarket: 1,amenity-bank: 1,shop-hairdresser: 1,74,158,5
+user_546,amenity-fast_food: 2,leisure-park: 1,shop-tattoo: 1,amenity-pub: 1,,41,145,2
+user_547,amenity-place_of_worship: 2,amenity-clinic: 1,natural-wood: 1,leisure-park: 1,amenity-college: 1,28,168,3
+user_548,amenity-fast_food: 7,shop-supermarket: 4,shop-hairdresser: 3,amenity-school: 2,shop-furniture: 2,158,568,12
+user_549,shop-supermarket: 1,shop-convenience: 1,amenity-school: 1,amenity-casino: 1,leisure-fitness_centre: 1,100,433,7
+user_550,shop-supermarket: 3,shop-convenience: 2,amenity-place_of_worship: 2,amenity-kindergarten: 1,shop-car_repair: 1,118,947,10
+user_551,leisure-park: 5,amenity-place_of_worship: 2,shop-bakery: 2,tourism-artwork: 2,shop-hairdresser: 1,118,546,12
+user_552,amenity-university: 2,amenity-pub: 2,amenity-bar: 2,tourism-museum: 1,shop-convenience: 1,49,510,7
+user_553,amenity-school: 5,amenity-fast_food: 5,shop-supermarket: 4,natural-wood: 3,amenity-cinema: 1,165,739,17
+user_554,amenity-restaurant: 7,shop-car_repair: 6,shop-supermarket: 4,tourism-artwork: 4,amenity-place_of_worship: 3,180,796,15
+user_555,amenity-fast_food: 10,amenity-restaurant: 7,amenity-pub: 5,amenity-university: 4,amenity-nightclub: 4,219,1185,19
+user_556,shop-hairdresser: 2,amenity-kindergarten: 2,leisure-park: 1,amenity-school: 1,amenity-dentist: 1,75,639,7
+user_557,amenity-fast_food: 10,shop-car_repair: 3,shop-convenience: 2,tourism-artwork: 2,amenity-restaurant: 2,97,535,4
+user_558,leisure-park: 4,natural-wood: 4,leisure-nature_reserve: 2,amenity-pub: 1,amenity-school: 1,54,710,16
+user_559,amenity-pharmacy: 3,amenity-doctors: 2,leisure-park: 1,shop-convenience: 1,amenity-fast_food: 1,86,538,6
+user_560,amenity-fast_food: 4,leisure-park: 3,amenity-cinema: 1,amenity-restaurant: 1,natural-wood: 1,215,1066,23
+user_561,amenity-place_of_worship: 1,,,,,59,383,5
+user_562,amenity-restaurant: 11,amenity-fast_food: 5,amenity-cafe: 5,leisure-park: 4,amenity-place_of_worship: 3,205,949,13
+user_563,tourism-artwork: 15,leisure-park: 2,amenity-cafe: 2,amenity-community_centre: 1,amenity-school: 1,102,405,6
+user_564,leisure-pitch: 9,amenity-fast_food: 3,tourism-artwork: 2,shop-convenience: 2,amenity-place_of_worship: 1,121,344,5
+user_565,amenity-restaurant: 3,natural-wood: 3,amenity-school: 2,amenity-place_of_worship: 1,historic-memorial: 1,66,535,11
+user_566,amenity-pub: 2,amenity-restaurant: 2,amenity-hospital: 2,amenity-cafe: 2,amenity-fast_food: 2,84,258,8
+user_567,tourism-artwork: 14,amenity-cinema: 1,amenity-fast_food: 1,amenity-studio: 1,,146,444,4
+user_568,amenity-restaurant: 2,amenity-fast_food: 2,leisure-park: 1,amenity-pharmacy: 1,shop-hairdresser: 1,96,93,2
+user_569,amenity-place_of_worship: 1,amenity-nightclub: 1,,,,53,285,3
+user_570,amenity-restaurant: 2,amenity-place_of_worship: 2,shop-hairdresser: 2,shop-car_repair: 1,amenity-school: 1,124,1265,8
+user_571,leisure-park: 1,shop-furniture: 1,,,,50,355,3
+user_572,shop-car_repair: 4,leisure-swimming_pool: 2,leisure-park: 1,natural-wood: 1,amenity-kindergarten: 1,71,652,8
+user_573,shop-car_repair: 3,amenity-school: 1,amenity-place_of_worship: 1,amenity-hospital: 1,amenity-pharmacy: 1,88,478,2
+user_574,amenity-cafe: 6,shop-confectionery: 5,amenity-restaurant: 4,amenity-fast_food: 4,amenity-place_of_worship: 3,137,468,5
+user_575,leisure-garden: 37,shop-supermarket: 1,natural-wood: 1,,,112,329,6
+user_576,amenity-marketplace: 6,shop-confectionery: 2,amenity-bank: 1,amenity-cinema: 1,shop-hairdresser: 1,78,343,5
+user_577,shop-supermarket: 1,tourism-museum: 1,amenity-place_of_worship: 1,,,168,475,7
+user_578,amenity-marketplace: 6,amenity-hospital: 4,amenity-restaurant: 3,shop-hairdresser: 3,amenity-casino: 2,70,704,26
+user_579,leisure-garden: 72,amenity-school: 4,amenity-place_of_worship: 2,leisure-pitch: 2,amenity-nightclub: 1,146,328,6
+user_580,amenity-pub: 2,shop-hairdresser: 2,amenity-fast_food: 1,shop-bakery: 1,amenity-pharmacy: 1,56,225,4
+user_581,amenity-pub: 2,amenity-bank: 2,leisure-park: 1,amenity-place_of_worship: 1,,115,631,9
+user_582,leisure-garden: 130,amenity-fast_food: 7,shop-supermarket: 5,shop-hairdresser: 5,shop-convenience: 5,190,927,14
+user_583,leisure-garden: 23,amenity-cafe: 3,amenity-restaurant: 2,historic-memorial: 2,amenity-fast_food: 1,85,351,7
+user_584,amenity-college: 2,amenity-school: 1,amenity-kindergarten: 1,leisure-park: 1,,144,602,7
+user_585,leisure-garden: 15,amenity-place_of_worship: 1,,,,38,131,2
+user_586,amenity-bank: 3,shop-bakery: 2,amenity-fast_food: 1,amenity-pharmacy: 1,shop-beauty: 1,176,753,8
+user_587,amenity-fast_food: 8,shop-car_repair: 5,shop-hairdresser: 3,amenity-restaurant: 3,shop-supermarket: 2,113,890,17
+user_588,amenity-restaurant: 1,amenity-fast_food: 1,amenity-place_of_worship: 1,,,153,491,3
+user_589,amenity-place_of_worship: 2,leisure-sports_centre: 1,tourism-artwork: 1,amenity-restaurant: 1,amenity-pharmacy: 1,159,708,5
+user_590,leisure-pitch: 3,historic-memorial: 2,amenity-hospital: 1,amenity-clinic: 1,leisure-fitness_centre: 1,78,230,7
+user_591,,,,,,12,29,0
+user_592,shop-supermarket: 1,shop-department_store: 1,leisure-park: 1,leisure-sports_centre: 1,leisure-swimming_pool: 1,117,670,3
+user_593,leisure-garden: 37,natural-grassland: 2,historic-ruins: 1,amenity-nightclub: 1,,83,339,6
+user_594,leisure-garden: 14,amenity-hospital: 1,,,,33,83,1
+user_595,amenity-school: 3,amenity-place_of_worship: 2,shop-supermarket: 1,amenity-cafe: 1,amenity-fast_food: 1,75,339,5
+user_596,amenity-fast_food: 6,shop-hairdresser: 2,shop-confectionery: 1,shop-convenience: 1,amenity-place_of_worship: 1,52,389,4
+user_597,shop-supermarket: 3,amenity-place_of_worship: 2,amenity-fast_food: 1,,,35,318,5
+user_598,leisure-garden: 33,amenity-restaurant: 6,historic-memorial: 4,tourism-artwork: 4,leisure-park: 3,134,751,15
+user_599,leisure-garden: 144,amenity-fast_food: 2,amenity-park: 2,leisure-park: 2,shop-hairdresser: 1,186,1370,20
+user_600,amenity-school: 4,amenity-fast_food: 4,amenity-place_of_worship: 3,amenity-restaurant: 2,leisure-sports_centre: 2,81,507,8
+user_601,shop-supermarket: 3,amenity-school: 2,leisure-playground: 1,amenity-hospital: 1,amenity-doctors: 1,112,416,10
+user_602,,,,,,41,276,3
+user_603,leisure-garden: 29,amenity-bank: 3,leisure-pitch: 3,amenity-fast_food: 2,leisure-fitness_centre: 2,58,304,7
+user_604,amenity-school: 1,,,,,26,122,4
+user_605,amenity-fast_food: 5,shop-hairdresser: 2,shop-beauty: 1,amenity-hospital: 1,amenity-school: 1,71,397,11
+user_606,amenity-fast_food: 7,amenity-cafe: 7,shop-hairdresser: 5,tourism-artwork: 5,shop-supermarket: 4,67,439,10
+user_607,leisure-park: 5,leisure-pitch: 3,leisure-playground: 1,shop-confectionery: 1,shop-convenience: 1,152,444,8
+user_608,natural-grassland: 6,amenity-place_of_worship: 2,amenity-school: 2,amenity-police: 1,amenity-community_centre: 1,192,612,15
+user_609,historic-memorial: 2,tourism-artwork: 2,amenity-pub: 1,amenity-cafe: 1,amenity-place_of_worship: 1,117,463,5
+user_610,leisure-garden: 18,shop-hairdresser: 2,amenity-fast_food: 2,amenity-pub: 1,amenity-cafe: 1,27,168,8
+user_611,leisure-garden: 40,shop-hairdresser: 5,amenity-fast_food: 5,shop-convenience: 3,leisure-park: 3,184,1057,17
+user_612,amenity-place_of_worship: 1,amenity-school: 1,shop-supermarket: 1,,,80,713,5
+user_613,leisure-park: 3,shop-supermarket: 2,amenity-fast_food: 2,natural-wood: 1,,84,367,4
+user_614,amenity-school: 2,amenity-place_of_worship: 2,amenity-marketplace: 1,shop-department_store: 1,shop-supermarket: 1,190,605,10
+user_615,leisure-park: 4,office-university: 3,shop-supermarket: 2,leisure-pitch: 1,shop-convenience: 1,197,1030,8
+user_616,amenity-school: 1,,,,,22,78,1
+user_617,amenity-restaurant: 7,amenity-fast_food: 5,shop-beauty: 5,tourism-artwork: 2,amenity-pharmacy: 2,108,455,6
+user_618,leisure-garden: 5,amenity-cafe: 4,shop-supermarket: 3,amenity-fast_food: 2,shop-confectionery: 2,126,441,8
+user_619,amenity-pub: 5,tourism-artwork: 4,amenity-bar: 3,amenity-restaurant: 3,amenity-place_of_worship: 2,122,427,10
+user_620,leisure-park: 2,leisure-sports_centre: 2,amenity-place_of_worship: 2,amenity-pub: 2,amenity-nightclub: 2,98,444,9
+user_621,shop-supermarket: 4,shop-furniture: 3,leisure-park: 2,amenity-school: 2,natural-wood: 2,166,566,13
+user_622,leisure-playground: 1,,,,,20,110,3
+user_623,shop-car_repair: 1,shop-hardware: 1,,,,28,150,5
+user_624,leisure-park: 3,amenity-school: 2,amenity-university: 2,historic-memorial: 1,leisure-pitch: 1,130,560,8
+user_625,amenity-cinema: 1,amenity-restaurant: 1,amenity-cafe: 1,amenity-doctors: 1,amenity-hospital: 1,28,142,4
+user_626,leisure-swimming_pool: 2,amenity-school: 2,amenity-pharmacy: 2,amenity-restaurant: 2,leisure-park: 1,97,690,6
+user_627,leisure-park: 1,amenity-place_of_worship: 1,natural-wood: 1,,,52,499,2
+user_628,leisure-park: 2,amenity-courthouse: 1,amenity-school: 1,shop-bakery: 1,amenity-pub: 1,54,289,3
+user_629,amenity-fast_food: 7,shop-hairdresser: 4,amenity-school: 3,shop-convenience: 3,shop-confectionery: 3,153,759,14
+user_630,leisure-park: 3,amenity-school: 1,amenity-cafe: 1,,,83,204,4
+user_631,leisure-swimming_pool: 1,amenity-police: 1,amenity-pub: 1,tourism-artwork: 1,amenity-place_of_worship: 1,51,537,6
+user_632,amenity-fast_food: 6,shop-convenience: 2,leisure-park: 1,leisure-sports_centre: 1,shop-car_repair: 1,175,499,9
+user_633,shop-confectionery: 4,amenity-place_of_worship: 2,amenity-school: 1,shop-supermarket: 1,shop-convenience: 1,51,328,6
+user_634,amenity-pub: 1,,,,,40,158,3
+user_635,amenity-fast_food: 5,amenity-bank: 4,amenity-cafe: 2,shop-hairdresser: 2,shop-bakery: 2,100,512,7
+user_636,amenity-pub: 1,amenity-nightclub: 1,,,,8,62,2
+user_637,amenity-cafe: 1,shop-supermarket: 1,amenity-place_of_worship: 1,amenity-hospital: 1,,105,411,10
+user_638,amenity-fast_food: 3,leisure-park: 2,shop-car_repair: 2,amenity-cafe: 1,amenity-restaurant: 1,169,538,10
+user_639,leisure-playground: 2,leisure-park: 1,leisure-pitch: 1,amenity-fast_food: 1,amenity-dentist: 1,12,55,2
+user_640,amenity-school: 4,shop-convenience: 3,shop-hairdresser: 2,leisure-park: 2,amenity-pharmacy: 2,104,446,14
+user_641,leisure-park: 2,leisure-pitch: 2,shop-supermarket: 1,amenity-park: 1,natural-wood: 1,91,300,10
+user_642,leisure-park: 3,amenity-school: 2,amenity-place_of_worship: 1,shop-supermarket: 1,shop-confectionery: 1,43,310,7
+user_643,leisure-park: 1,amenity-school: 1,,,,61,159,2
+user_644,amenity-restaurant: 1,,,,,67,246,4
+user_645,amenity-pub: 1,,,,,16,91,3
+user_646,leisure-park: 1,shop-car_repair: 1,amenity-place_of_worship: 1,amenity-dentist: 1,amenity-college: 1,129,200,2
+user_647,,,,,,63,121,4
+user_648,amenity-pharmacy: 3,amenity-doctors: 2,amenity-school: 1,,,49,208,4
+user_649,tourism-artwork: 5,leisure-sports_centre: 2,leisure-pitch: 2,amenity-university: 1,leisure-park: 1,139,516,9
+user_650,amenity-bank: 3,historic-memorial: 2,,,,56,343,4
+user_651,amenity-restaurant: 2,amenity-school: 2,leisure-fitness_centre: 1,shop-car_repair: 1,amenity-fast_food: 1,143,967,10
+user_652,tourism-artwork: 3,shop-hairdresser: 2,leisure-park: 2,shop-supermarket: 1,shop-convenience: 1,54,158,5
+user_653,shop-supermarket: 2,amenity-restaurant: 2,amenity-college: 1,leisure-garden: 1,amenity-pub: 1,99,147,3
+user_654,amenity-school: 2,amenity-place_of_worship: 1,amenity-restaurant: 1,leisure-fitness_centre: 1,amenity-fast_food: 1,27,137,4
+user_655,leisure-garden: 14,amenity-cafe: 3,leisure-park: 2,amenity-hospital: 2,amenity-theatre: 2,102,341,9
+user_656,,,,,,25,45,1
+user_657,shop-car_repair: 2,amenity-doctors: 1,leisure-garden: 1,natural-wood: 1,shop-supermarket: 1,108,422,6
+user_658,amenity-fast_food: 4,amenity-school: 3,shop-supermarket: 3,amenity-place_of_worship: 3,amenity-pharmacy: 2,96,325,8
+user_659,leisure-garden: 25,shop-supermarket: 5,leisure-pitch: 4,amenity-pharmacy: 2,leisure-sports_centre: 2,152,639,18
+user_660,amenity-place_of_worship: 1,,,,,35,115,3
+user_661,amenity-cafe: 4,shop-department_store: 2,amenity-fast_food: 2,shop-confectionery: 2,leisure-park: 1,103,607,6
+user_662,amenity-pub: 1,leisure-garden: 1,amenity-cafe: 1,,,93,428,3
+user_663,amenity-cafe: 6,amenity-fast_food: 5,shop-confectionery: 4,shop-supermarket: 3,amenity-bank: 2,116,483,8
+user_664,amenity-fast_food: 8,amenity-pub: 3,amenity-restaurant: 3,amenity-cafe: 3,shop-supermarket: 2,148,496,7
+user_665,amenity-fast_food: 6,amenity-bar: 3,leisure-swimming_pool: 2,amenity-university: 1,leisure-park: 1,55,180,5
+user_666,amenity-place_of_worship: 1,shop-supermarket: 1,amenity-pharmacy: 1,shop-furniture: 1,,144,435,5
+user_667,amenity-place_of_worship: 2,amenity-school: 2,amenity-pharmacy: 2,shop-hairdresser: 2,amenity-hospital: 1,80,198,4
+user_668,amenity-pub: 2,amenity-school: 1,amenity-college: 1,amenity-police: 1,amenity-restaurant: 1,42,183,3
+user_669,,,,,,5,9,0
+user_670,amenity-restaurant: 2,tourism-artwork: 2,amenity-kindergarten: 1,amenity-community_centre: 1,amenity-fast_food: 1,100,540,5
+user_671,amenity-fast_food: 5,shop-confectionery: 4,amenity-bank: 2,amenity-school: 2,shop-supermarket: 2,127,581,9
+user_672,amenity-fast_food: 6,shop-confectionery: 5,amenity-school: 2,amenity-place_of_worship: 2,shop-hairdresser: 2,78,267,4
+user_673,amenity-fast_food: 3,amenity-restaurant: 3,amenity-college: 3,shop-supermarket: 2,amenity-place_of_worship: 2,156,707,14
+user_674,amenity-school: 2,amenity-cafe: 2,leisure-park: 1,amenity-fast_food: 1,amenity-restaurant: 1,151,446,8
+user_675,leisure-pitch: 2,leisure-garden: 1,leisure-park: 1,leisure-sports_centre: 1,leisure-swimming_pool: 1,91,518,4
+user_676,tourism-artwork: 2,amenity-place_of_worship: 2,amenity-pharmacy: 2,amenity-university: 1,amenity-pub: 1,74,445,7
+user_677,tourism-artwork: 2,amenity-hospital: 1,amenity-cafe: 1,amenity-place_of_worship: 1,,136,461,5
+user_678,amenity-cafe: 1,amenity-pub: 1,shop-supermarket: 1,amenity-school: 1,,40,196,3
+user_679,amenity-pub: 2,leisure-park: 2,shop-supermarket: 1,,,123,905,10
+user_680,amenity-school: 3,amenity-bank: 2,leisure-park: 2,shop-confectionery: 1,shop-hairdresser: 1,79,412,7
+user_681,shop-hairdresser: 4,amenity-fast_food: 4,shop-supermarket: 3,shop-furniture: 3,amenity-place_of_worship: 2,153,776,13
+user_682,leisure-pitch: 1,leisure-sports_centre: 1,leisure-swimming_pool: 1,amenity-school: 1,,55,211,5
+user_683,amenity-fast_food: 4,tourism-artwork: 3,shop-hairdresser: 2,amenity-pub: 1,amenity-courthouse: 1,107,377,8
+user_684,leisure-pitch: 3,leisure-sports_centre: 2,leisure-park: 2,amenity-cafe: 2,leisure-playground: 1,148,911,12
+user_685,tourism-artwork: 2,amenity-fast_food: 2,shop-hairdresser: 2,natural-wood: 1,amenity-courthouse: 1,86,244,3
+user_686,amenity-school: 1,shop-car_repair: 1,shop-hairdresser: 1,shop-supermarket: 1,amenity-college: 1,67,265,5
+user_687,amenity-doctors: 1,leisure-park: 1,amenity-school: 1,,,84,537,6
+user_688,leisure-pitch: 2,amenity-community_centre: 1,leisure-stadium: 1,,,56,391,8
+user_689,leisure-park: 1,leisure-pitch: 1,amenity-bank: 1,leisure-sports_centre: 1,amenity-kindergarten: 1,25,127,4
+user_690,shop-bakery: 5,leisure-sports_centre: 3,amenity-fast_food: 3,amenity-bank: 2,amenity-restaurant: 2,79,395,11
+user_691,amenity-school: 2,leisure-garden: 2,amenity-restaurant: 2,amenity-cafe: 1,leisure-park: 1,79,460,8
+user_692,amenity-school: 1,,,,,41,231,5
+user_693,amenity-restaurant: 3,leisure-swimming_pool: 2,leisure-sports_centre: 1,shop-car_repair: 1,shop-hardware: 1,86,467,6
+user_694,amenity-cafe: 4,amenity-school: 1,shop-supermarket: 1,shop-hairdresser: 1,amenity-doctors: 1,87,496,5
+user_695,amenity-school: 3,shop-supermarket: 2,shop-bakery: 2,amenity-ice_cream: 2,leisure-swimming_pool: 2,99,517,11
+user_696,leisure-pitch: 3,leisure-park: 3,historic-monument: 3,leisure-swimming_pool: 2,amenity-restaurant: 2,54,491,11
+user_697,amenity-pub: 4,amenity-fast_food: 4,amenity-bar: 3,amenity-nightclub: 2,shop-supermarket: 2,107,547,7
+user_698,amenity-restaurant: 3,historic-memorial: 2,shop-convenience: 2,shop-hairdresser: 2,amenity-cafe: 2,63,175,6
+user_699,amenity-cafe: 2,amenity-fast_food: 2,leisure-garden: 1,leisure-park: 1,historic-memorial: 1,111,317,7
+user_700,shop-hairdresser: 2,leisure-sports_centre: 1,leisure-swimming_pool: 1,amenity-school: 1,leisure-park: 1,62,281,5
+user_701,leisure-park: 3,leisure-pitch: 2,amenity-place_of_worship: 1,leisure-playground: 1,,66,273,7
+user_702,leisure-park: 3,leisure-garden: 2,amenity-bank: 1,leisure-stadium: 1,amenity-courthouse: 1,61,304,8
+user_703,leisure-pitch: 3,leisure-swimming_pool: 2,shop-supermarket: 2,leisure-garden: 2,leisure-sports_centre: 1,65,263,7
+user_704,leisure-park: 2,amenity-community_centre: 1,amenity-school: 1,leisure-nature_reserve: 1,shop-supermarket: 1,31,119,5
+user_705,amenity-fast_food: 3,amenity-school: 2,shop-supermarket: 1,amenity-pharmacy: 1,amenity-dentist: 1,84,445,5
+user_706,office-university: 2,amenity-university: 1,,,,35,44,1
+user_707,amenity-pub: 16,amenity-restaurant: 11,amenity-bank: 5,shop-hairdresser: 4,shop-supermarket: 3,77,540,10
+user_708,shop-furniture: 2,shop-hairdresser: 2,amenity-school: 2,leisure-park: 1,amenity-cafe: 1,29,189,3
+user_709,amenity-restaurant: 3,amenity-cafe: 2,leisure-playground: 2,amenity-bar: 2,amenity-brothel: 1,30,164,6
+user_710,leisure-pitch: 3,shop-confectionery: 2,leisure-sports_centre: 2,leisure-swimming_pool: 1,amenity-school: 1,116,433,6
+user_711,amenity-fast_food: 3,shop-supermarket: 2,shop-convenience: 2,amenity-college: 1,amenity-school: 1,83,170,5
+user_712,amenity-pharmacy: 2,shop-convenience: 2,amenity-doctors: 1,amenity-bar: 1,shop-furniture: 1,132,789,12
+user_713,amenity-restaurant: 6,amenity-school: 4,shop-hairdresser: 4,amenity-kindergarten: 3,amenity-doctors: 1,106,428,9
+user_714,leisure-fitness_centre: 1,shop-car_repair: 1,amenity-place_of_worship: 1,amenity-fast_food: 1,,78,294,5
+user_715,amenity-fast_food: 4,shop-convenience: 2,shop-hairdresser: 2,historic-memorial: 2,amenity-place_of_worship: 2,76,466,10
+user_716,leisure-park: 2,amenity-university: 1,amenity-place_of_worship: 1,amenity-restaurant: 1,,34,145,4
+user_717,shop-bakery: 4,amenity-restaurant: 3,shop-hairdresser: 2,amenity-marketplace: 1,craft-locksmith: 1,49,227,4
+user_718,amenity-place_of_worship: 2,amenity-pub: 2,shop-supermarket: 2,amenity-cafe: 2,shop-hairdresser: 1,127,382,8
+user_719,amenity-place_of_worship: 2,amenity-school: 2,shop-supermarket: 1,,,74,323,6
+user_720,shop-hairdresser: 5,shop-bakery: 5,amenity-restaurant: 4,amenity-cafe: 3,shop-confectionery: 2,84,401,9
+user_721,shop-supermarket: 2,tourism-artwork: 1,amenity-school: 1,leisure-sports_centre: 1,amenity-place_of_worship: 1,61,315,6
+user_722,,,,,,23,61,1
+user_723,amenity-marketplace: 2,shop-supermarket: 1,shop-hairdresser: 1,amenity-townhall: 1,amenity-bank: 1,50,347,7
+user_724,historic-monument: 2,shop-supermarket: 1,amenity-cafe: 1,shop-confectionery: 1,leisure-garden: 1,62,223,3
+user_725,amenity-fast_food: 5,amenity-restaurant: 3,shop-supermarket: 3,amenity-place_of_worship: 3,shop-hairdresser: 3,141,717,14
+user_726,shop-hairdresser: 2,amenity-fast_food: 1,shop-convenience: 1,shop-hardware: 1,amenity-school: 1,80,465,7
+user_727,leisure-park: 3,natural-wood: 3,leisure-garden: 1,amenity-hospital: 1,amenity-place_of_worship: 1,66,464,14
+user_728,,,,,,34,173,3
+user_729,amenity-fast_food: 10,amenity-restaurant: 6,amenity-school: 3,shop-beauty: 3,amenity-bank: 2,115,283,7
+user_730,amenity-college: 2,amenity-place_of_worship: 2,amenity-school: 1,,,108,550,8
+user_731,leisure-pitch: 2,leisure-stadium: 2,amenity-college: 2,tourism-artwork: 1,shop-hairdresser: 1,61,348,8
+user_732,leisure-park: 3,amenity-hospital: 2,,,,23,186,6
+user_733,amenity-fast_food: 13,amenity-restaurant: 7,amenity-pharmacy: 4,amenity-cafe: 4,shop-hairdresser: 4,147,851,14
+user_734,amenity-pub: 5,amenity-restaurant: 5,amenity-place_of_worship: 3,amenity-cafe: 3,tourism-artwork: 3,141,524,13
+user_735,leisure-pitch: 2,leisure-park: 2,amenity-courthouse: 2,leisure-sports_centre: 1,amenity-school: 1,101,397,5
+user_736,shop-supermarket: 4,historic-memorial: 2,historic-archaeological_site: 1,amenity-university: 1,amenity-hospital: 1,54,316,11
+user_737,leisure-park: 1,,,,,83,251,4
+user_738,amenity-cafe: 2,amenity-bar: 2,leisure-sports_centre: 1,leisure-garden: 1,amenity-townhall: 1,77,556,10
+user_739,,,,,,30,122,1
+user_740,amenity-restaurant: 5,amenity-fast_food: 5,shop-department_store: 4,amenity-place_of_worship: 2,leisure-garden: 2,94,418,9
+user_741,leisure-garden: 31,amenity-fast_food: 4,shop-supermarket: 3,shop-hairdresser: 2,natural-wood: 1,124,427,9
+user_742,amenity-fast_food: 2,shop-convenience: 2,shop-supermarket: 2,amenity-park: 1,leisure-park: 1,116,398,6
+user_743,amenity-restaurant: 4,amenity-pharmacy: 4,amenity-place_of_worship: 4,shop-hairdresser: 2,amenity-dentist: 1,96,486,8
+user_744,shop-supermarket: 2,amenity-hospital: 2,leisure-fitness_centre: 1,amenity-bank: 1,amenity-fast_food: 1,73,387,10
+user_745,leisure-garden: 17,shop-supermarket: 3,amenity-place_of_worship: 3,amenity-fast_food: 1,amenity-cafe: 1,138,1004,18
+user_746,amenity-place_of_worship: 2,amenity-school: 2,amenity-pub: 2,leisure-garden: 1,shop-car_repair: 1,120,896,14
+user_747,amenity-place_of_worship: 1,leisure-fitness_centre: 1,,,,58,252,4
+user_748,,,,,,12,42,0
+user_749,amenity-school: 4,amenity-fast_food: 3,leisure-pitch: 2,amenity-doctors: 1,shop-hairdresser: 1,60,378,10
+user_750,amenity-restaurant: 7,amenity-pub: 4,leisure-park: 3,shop-hairdresser: 3,amenity-bar: 2,119,568,14
+user_751,shop-hairdresser: 3,amenity-fast_food: 2,amenity-restaurant: 2,shop-supermarket: 1,shop-convenience: 1,25,140,3
+user_752,office-university: 3,natural-wood: 1,amenity-restaurant: 1,amenity-university: 1,,70,305,5
+user_753,amenity-restaurant: 9,amenity-bar: 4,amenity-cafe: 3,amenity-fast_food: 1,shop-bakery: 1,39,206,5
+user_754,,,,,,26,74,1
+user_755,leisure-park: 1,amenity-university: 1,historic-memorial: 1,,,62,309,2
+user_756,amenity-fast_food: 4,amenity-pharmacy: 4,shop-convenience: 3,shop-car_repair: 2,amenity-dentist: 2,140,501,13
+user_757,leisure-garden: 7,amenity-school: 3,leisure-park: 2,leisure-playground: 1,amenity-park: 1,106,510,10
+user_758,shop-supermarket: 2,shop-hairdresser: 2,shop-confectionery: 1,amenity-pharmacy: 1,shop-convenience: 1,66,312,4
+user_759,leisure-garden: 1,leisure-pitch: 1,historic-memorial: 1,,,28,153,4
+user_760,,,,,,97,309,2
+user_761,amenity-cafe: 2,tourism-artwork: 1,historic-memorial: 1,amenity-fast_food: 1,,68,317,2
+user_762,leisure-garden: 99,amenity-school: 3,natural-wood: 2,,,63,262,9
+user_763,leisure-park: 3,amenity-cafe: 2,amenity-hospital: 1,historic-memorial: 1,amenity-school: 1,112,476,4
+user_764,shop-hairdresser: 2,shop-department_store: 1,shop-supermarket: 1,leisure-park: 1,amenity-theatre: 1,104,256,3
+user_765,,,,,,101,218,1
+user_766,,,,,,14,83,1
+user_767,leisure-park: 2,amenity-fast_food: 2,shop-hairdresser: 2,shop-supermarket: 1,natural-wood: 1,121,576,6
+user_768,amenity-fast_food: 3,amenity-place_of_worship: 2,shop-supermarket: 2,shop-convenience: 1,shop-car_repair: 1,134,415,8
+user_769,,,,,,16,84,1
+user_770,shop-supermarket: 2,amenity-school: 1,shop-convenience: 1,,,78,515,7
+user_771,shop-convenience: 3,amenity-cafe: 2,leisure-playground: 1,amenity-college: 1,leisure-adult_gaming_centre: 1,33,167,3
+user_772,leisure-pitch: 2,shop-car_repair: 1,shop-beauty: 1,leisure-sports_centre: 1,,105,342,4
+user_773,amenity-restaurant: 3,amenity-cafe: 2,shop-hairdresser: 2,shop-convenience: 1,tourism-attraction: 1,68,387,5
+user_774,tourism-artwork: 9,amenity-bar: 2,amenity-pub: 1,amenity-restaurant: 1,amenity-place_of_worship: 1,60,198,3
+user_775,leisure-park: 2,amenity-hospital: 1,shop-supermarket: 1,,,54,176,3
+user_776,amenity-school: 1,,,,,52,459,6
+user_777,amenity-cafe: 4,shop-supermarket: 4,amenity-bank: 3,amenity-place_of_worship: 1,leisure-garden: 1,114,534,12
+user_778,amenity-marketplace: 7,shop-convenience: 4,leisure-garden: 3,shop-bakery: 3,amenity-bar: 3,66,433,13
+user_779,leisure-park: 3,amenity-fast_food: 3,leisure-playground: 2,leisure-pitch: 1,amenity-school: 1,123,611,10
+user_780,shop-furniture: 2,amenity-cafe: 2,leisure-park: 1,shop-bakery: 1,shop-hairdresser: 1,52,212,3
+user_781,shop-bakery: 2,shop-furniture: 2,shop-hairdresser: 2,shop-car_repair: 1,shop-beauty: 1,108,899,3
+user_782,amenity-courthouse: 1,shop-supermarket: 1,shop-confectionery: 1,leisure-stadium: 1,leisure-park: 1,49,234,5
+user_783,shop-furniture: 3,amenity-school: 2,shop-beauty: 1,,,49,245,5
+user_784,tourism-museum: 4,shop-convenience: 2,amenity-restaurant: 2,leisure-garden: 2,shop-beauty: 1,36,192,8
+user_785,amenity-school: 2,leisure-garden: 2,amenity-place_of_worship: 1,amenity-townhall: 1,shop-bakery: 1,57,274,6
+user_786,shop-hardware: 1,shop-furniture: 1,amenity-restaurant: 1,leisure-swimming_pool: 1,,78,340,5
+user_787,leisure-pitch: 1,leisure-park: 1,amenity-school: 1,amenity-bank: 1,amenity-pharmacy: 1,86,372,6
+user_788,leisure-playground: 5,amenity-restaurant: 3,amenity-fast_food: 2,amenity-kindergarten: 1,leisure-park: 1,99,254,5
+user_789,amenity-fast_food: 6,tourism-artwork: 3,shop-hairdresser: 2,shop-supermarket: 2,amenity-pub: 1,91,491,12
+user_790,leisure-swimming_pool: 2,leisure-playground: 1,leisure-sports_centre: 1,,,39,173,3
+user_791,shop-hairdresser: 4,shop-bakery: 1,shop-furniture: 1,leisure-swimming_pool: 1,leisure-playground: 1,41,217,5
+user_792,shop-hairdresser: 2,shop-beauty: 2,amenity-cafe: 1,amenity-pub: 1,shop-confectionery: 1,22,157,5
+user_793,amenity-bank: 2,amenity-school: 1,amenity-university: 1,,,39,278,4
+user_794,shop-hairdresser: 5,amenity-bank: 4,shop-bakery: 4,amenity-cafe: 3,amenity-bar: 3,108,419,8
+user_795,amenity-bar: 3,shop-hairdresser: 3,shop-beauty: 1,leisure-park: 1,amenity-bank: 1,32,256,3
+user_796,shop-locksmith: 1,,,,,41,146,1
+user_797,amenity-restaurant: 14,amenity-nightclub: 4,amenity-place_of_worship: 2,amenity-bar: 2,amenity-hospital: 2,83,912,10
+user_798,amenity-school: 3,shop-hairdresser: 2,leisure-sports_centre: 1,amenity-bar: 1,amenity-pharmacy: 1,28,173,5
+user_799,leisure-pitch: 6,leisure-stadium: 1,leisure-sports_centre: 1,leisure-garden: 1,amenity-bar: 1,41,189,5
+user_800,amenity-bank: 4,amenity-courthouse: 2,leisure-park: 2,shop-confectionery: 2,amenity-cafe: 2,49,280,9
+user_801,leisure-playground: 6,amenity-restaurant: 5,amenity-bank: 3,amenity-pub: 2,shop-bakery: 2,51,257,6
+user_802,leisure-park: 3,amenity-university: 2,leisure-garden: 2,leisure-swimming_pool: 1,shop-confectionery: 1,31,199,5
+user_803,amenity-bar: 4,amenity-restaurant: 3,shop-beauty: 2,shop-hairdresser: 2,shop-furniture: 2,67,295,5
+user_804,amenity-bank: 6,leisure-garden: 4,historic-monument: 3,leisure-park: 2,leisure-sports_centre: 1,64,337,9
+user_805,amenity-restaurant: 3,amenity-hospital: 3,amenity-school: 1,amenity-clinic: 1,shop-bakery: 1,108,661,11
+user_806,amenity-restaurant: 3,amenity-university: 2,leisure-park: 2,shop-bakery: 1,shop-hardware: 1,43,211,7
+user_807,shop-confectionery: 2,shop-furniture: 1,amenity-school: 1,amenity-bank: 1,amenity-pub: 1,44,273,9
+user_808,amenity-school: 4,leisure-pitch: 2,leisure-sports_centre: 2,leisure-playground: 1,amenity-pharmacy: 1,111,1256,13
+user_809,amenity-restaurant: 4,amenity-bar: 2,amenity-bank: 2,amenity-pub: 2,amenity-cafe: 2,84,385,3
+user_810,leisure-park: 2,amenity-restaurant: 2,amenity-place_of_worship: 1,tourism-attraction: 1,amenity-bank: 1,41,191,5
+user_811,amenity-bar: 7,amenity-restaurant: 6,leisure-park: 2,amenity-bank: 2,leisure-playground: 1,82,339,9
+user_812,leisure-sports_centre: 3,leisure-playground: 2,leisure-park: 1,shop-hardware: 1,amenity-townhall: 1,46,246,6
+user_813,shop-furniture: 6,shop-hairdresser: 4,shop-beauty: 3,shop-bakery: 3,leisure-park: 2,76,286,7
+user_814,amenity-school: 2,leisure-swimming_pool: 2,,,,66,502,7
+user_815,amenity-restaurant: 1,amenity-cafe: 1,,,,37,179,6
+user_816,leisure-pitch: 4,leisure-playground: 2,leisure-park: 1,amenity-school: 1,leisure-fitness_centre: 1,29,178,7
+user_817,amenity-doctors: 2,amenity-college: 2,amenity-place_of_worship: 1,amenity-pharmacy: 1,tourism-artwork: 1,99,478,5
+user_818,amenity-restaurant: 5,amenity-bank: 4,amenity-bar: 4,leisure-pitch: 4,amenity-cafe: 3,31,190,7
+user_819,leisure-swimming_pool: 2,leisure-playground: 1,leisure-sports_centre: 1,,,36,284,5
+user_820,leisure-park: 1,amenity-bank: 1,amenity-veterinary: 1,amenity-restaurant: 1,amenity-university: 1,44,147,4
+user_821,leisure-garden: 3,tourism-attraction: 2,amenity-restaurant: 2,amenity-cafe: 2,amenity-kindergarten: 2,38,181,5
+user_822,leisure-park: 2,,,,,37,359,3
+user_823,amenity-kindergarten: 1,amenity-arts_centre: 1,amenity-clinic: 1,leisure-park: 1,leisure-sports_centre: 1,94,611,7
+user_824,amenity-kindergarten: 2,amenity-restaurant: 2,leisure-park: 2,shop-confectionery: 1,shop-supermarket: 1,52,345,9
+user_825,amenity-kindergarten: 1,,,,,35,175,2
+user_826,leisure-pitch: 2,amenity-school: 1,leisure-playground: 1,leisure-park: 1,,28,166,5
+user_827,amenity-school: 4,leisure-park: 1,leisure-sports_centre: 1,shop-supermarket: 1,,83,383,6
+user_828,leisure-park: 2,leisure-playground: 1,shop-bakery: 1,amenity-cafe: 1,leisure-pitch: 1,38,173,3
+user_829,amenity-university: 6,leisure-park: 6,leisure-garden: 3,leisure-pitch: 3,historic-monument: 2,105,696,13
+user_830,leisure-park: 1,shop-supermarket: 1,,,,33,121,3
+user_831,amenity-bank: 3,leisure-garden: 1,shop-hairdresser: 1,,,41,107,3
+user_832,amenity-restaurant: 9,amenity-bar: 5,amenity-pub: 4,shop-furniture: 3,amenity-school: 2,29,151,6
+user_833,amenity-school: 3,shop-hairdresser: 3,amenity-dentist: 1,amenity-veterinary: 1,leisure-pitch: 1,58,246,5
+user_834,shop-supermarket: 4,shop-confectionery: 1,shop-hairdresser: 1,amenity-clinic: 1,leisure-park: 1,111,535,12
+user_835,amenity-kindergarten: 1,shop-supermarket: 1,leisure-sports_centre: 1,leisure-playground: 1,leisure-park: 1,42,307,9
+user_836,amenity-restaurant: 2,shop-supermarket: 1,amenity-clinic: 1,leisure-park: 1,leisure-sports_centre: 1,42,489,10
+user_837,amenity-clinic: 1,leisure-pitch: 1,leisure-park: 1,leisure-sports_centre: 1,,36,204,3
+user_838,leisure-park: 2,amenity-school: 1,shop-confectionery: 1,shop-beauty: 1,shop-furniture: 1,39,176,6
+user_839,amenity-school: 3,amenity-hospital: 2,leisure-park: 2,leisure-pitch: 2,shop-convenience: 2,28,239,4
+user_840,amenity-university: 2,leisure-park: 2,leisure-garden: 1,amenity-bank: 1,leisure-swimming_pool: 1,59,251,3
+user_841,amenity-marketplace: 5,amenity-school: 1,amenity-place_of_worship: 1,shop-supermarket: 1,amenity-cafe: 1,40,422,9
+user_842,leisure-park: 5,amenity-cafe: 3,amenity-pharmacy: 3,amenity-school: 2,leisure-sports_centre: 2,96,568,9
+user_843,amenity-university: 3,amenity-restaurant: 2,leisure-park: 2,amenity-pub: 1,leisure-garden: 1,84,406,6
+user_844,amenity-bank: 3,amenity-bar: 2,shop-beauty: 2,leisure-park: 1,leisure-playground: 1,56,122,2
+user_845,amenity-hospital: 1,,,,,48,162,2
+user_846,leisure-swimming_pool: 1,leisure-playground: 1,leisure-pitch: 1,leisure-sports_centre: 1,,26,95,3
+user_847,leisure-park: 1,tourism-museum: 1,historic-memorial: 1,amenity-ice_cream: 1,leisure-sports_centre: 1,50,268,3
+user_848,amenity-place_of_worship: 4,shop-confectionery: 4,amenity-school: 3,shop-car_repair: 3,shop-supermarket: 3,92,553,14
+user_849,leisure-park: 1,,,,,71,353,2
+user_850,shop-hairdresser: 3,amenity-school: 2,shop-supermarket: 2,amenity-ice_cream: 2,amenity-place_of_worship: 2,110,610,12
+user_851,shop-car_repair: 2,amenity-place_of_worship: 1,amenity-pub: 1,amenity-cafe: 1,amenity-nightclub: 1,106,398,6
+user_852,shop-supermarket: 2,leisure-pitch: 1,amenity-restaurant: 1,leisure-park: 1,,38,242,4
+user_853,amenity-fast_food: 4,amenity-place_of_worship: 3,amenity-bank: 2,amenity-restaurant: 2,amenity-cafe: 2,97,469,11
+user_854,amenity-restaurant: 4,shop-department_store: 4,amenity-fast_food: 4,amenity-pub: 2,amenity-school: 1,33,193,6
+user_855,shop-bakery: 4,amenity-restaurant: 3,shop-furniture: 3,shop-convenience: 3,shop-hairdresser: 2,84,334,7
+user_856,leisure-swimming_pool: 1,leisure-playground: 1,leisure-sports_centre: 1,,,13,133,2
+user_857,leisure-park: 4,amenity-bank: 2,amenity-cafe: 2,shop-hairdresser: 2,shop-hardware: 1,41,229,3
+user_858,,,,,,25,185,4
+user_859,amenity-restaurant: 1,,,,,74,317,3
+user_860,amenity-bar: 1,,,,,26,132,1
+user_861,amenity-school: 3,leisure-park: 2,shop-car_repair: 2,,,23,145,5
+user_862,amenity-school: 1,amenity-place_of_worship: 1,amenity-restaurant: 1,leisure-park: 1,amenity-doctors: 1,46,332,7
+user_863,amenity-bank: 2,shop-hairdresser: 2,shop-confectionery: 2,historic-monument: 2,amenity-cafe: 2,43,251,3
+user_864,amenity-bar: 2,amenity-cafe: 2,amenity-school: 1,leisure-pitch: 1,amenity-clinic: 1,63,212,4
+user_865,shop-supermarket: 2,amenity-ice_cream: 2,leisure-park: 1,amenity-pharmacy: 1,leisure-swimming_pool: 1,37,183,3
+user_866,amenity-restaurant: 1,shop-car_repair: 1,amenity-place_of_worship: 1,,,58,363,3
+user_867,amenity-hospital: 1,leisure-playground: 1,amenity-school: 1,,,15,97,2
+user_868,shop-hairdresser: 5,shop-beauty: 4,amenity-bar: 3,amenity-fast_food: 2,leisure-pitch: 2,75,517,14
+user_869,amenity-cafe: 1,amenity-restaurant: 1,shop-confectionery: 1,amenity-bar: 1,,103,294,2
+user_870,leisure-park: 6,shop-beauty: 2,amenity-clinic: 1,amenity-cafe: 1,leisure-pitch: 1,25,206,5
+user_871,amenity-school: 1,leisure-park: 1,,,,17,91,2
+user_872,amenity-clinic: 1,leisure-park: 1,leisure-sports_centre: 1,amenity-school: 1,,27,125,4
+user_873,,,,,,54,62,0
+user_874,amenity-bank: 8,amenity-bar: 3,shop-bakery: 3,amenity-restaurant: 3,shop-hairdresser: 2,41,236,9
+user_875,amenity-cafe: 2,amenity-school: 1,leisure-sports_centre: 1,amenity-college: 1,amenity-bar: 1,32,164,3
+user_876,amenity-restaurant: 7,amenity-bar: 7,leisure-park: 5,amenity-school: 5,shop-hairdresser: 5,104,622,14
+user_877,amenity-bank: 1,,,,,42,211,2
+user_878,leisure-garden: 4,amenity-restaurant: 4,amenity-bar: 3,shop-hairdresser: 3,shop-hardware: 2,22,135,5
+user_879,leisure-pitch: 4,amenity-kindergarten: 1,shop-car_repair: 1,amenity-school: 1,,33,339,4
+user_880,amenity-university: 2,historic-monument: 2,leisure-garden: 1,amenity-cafe: 1,,41,181,3
+user_881,amenity-school: 3,leisure-swimming_pool: 2,amenity-nightclub: 1,,,24,201,6
+user_882,amenity-bar: 8,amenity-restaurant: 7,amenity-pub: 5,shop-furniture: 3,shop-hairdresser: 3,105,660,7
+user_883,shop-hairdresser: 6,leisure-pitch: 5,amenity-bank: 4,amenity-school: 3,amenity-cafe: 3,102,375,12
+user_884,leisure-park: 4,leisure-pitch: 3,shop-confectionery: 2,shop-hairdresser: 2,amenity-school: 2,66,229,6
+user_885,tourism-attraction: 5,tourism-gallery: 2,amenity-hospital: 2,amenity-kindergarten: 1,amenity-bar: 1,104,590,19
+user_886,amenity-restaurant: 5,shop-supermarket: 2,amenity-cafe: 2,shop-confectionery: 1,shop-beauty: 1,83,535,9
+user_887,amenity-bar: 4,shop-hairdresser: 3,amenity-restaurant: 2,amenity-cinema: 1,shop-furniture: 1,88,538,7
+user_888,leisure-park: 4,shop-hairdresser: 2,amenity-bar: 2,shop-car_repair: 1,shop-bakery: 1,64,335,7
+user_889,leisure-sports_centre: 2,leisure-park: 2,leisure-pitch: 1,leisure-swimming_pool: 1,shop-hairdresser: 1,104,626,11
+user_890,amenity-school: 5,leisure-pitch: 4,leisure-playground: 3,amenity-cafe: 3,leisure-park: 2,69,553,11
+user_891,amenity-school: 4,shop-hairdresser: 3,leisure-pitch: 3,shop-supermarket: 2,amenity-pharmacy: 2,63,511,10
+user_892,amenity-fast_food: 8,amenity-pharmacy: 2,amenity-bank: 2,shop-hairdresser: 2,amenity-place_of_worship: 2,79,239,4
+user_893,shop-hairdresser: 4,amenity-bar: 3,shop-furniture: 3,amenity-school: 1,amenity-cafe: 1,86,458,4
+user_894,amenity-restaurant: 4,leisure-park: 2,leisure-playground: 1,amenity-bank: 1,shop-beauty: 1,72,428,8
+user_895,shop-hairdresser: 5,shop-confectionery: 2,shop-convenience: 2,amenity-place_of_worship: 1,shop-supermarket: 1,51,156,3
+user_896,leisure-park: 3,shop-hairdresser: 2,amenity-bar: 2,amenity-townhall: 2,amenity-cafe: 2,51,212,4
+user_897,leisure-swimming_pool: 2,amenity-school: 1,leisure-pitch: 1,amenity-hospital: 1,,22,124,3
+user_898,,,,,,19,153,4
+user_899,shop-supermarket: 2,tourism-artwork: 1,amenity-pharmacy: 1,,,83,232,5
+user_900,leisure-park: 5,leisure-garden: 3,shop-beauty: 2,amenity-university: 1,amenity-restaurant: 1,44,260,4
+user_901,amenity-restaurant: 4,amenity-bar: 1,amenity-pub: 1,amenity-pharmacy: 1,amenity-college: 1,46,435,5
+user_902,shop-hardware: 3,amenity-restaurant: 3,shop-furniture: 3,shop-hairdresser: 2,leisure-park: 2,86,508,8
+user_903,leisure-garden: 40,amenity-restaurant: 2,shop-furniture: 1,shop-supermarket: 1,amenity-pub: 1,36,176,6
+user_904,amenity-bar: 8,amenity-restaurant: 2,amenity-pub: 2,amenity-hospital: 1,amenity-bank: 1,102,241,5
+user_905,shop-hairdresser: 7,shop-bakery: 6,shop-confectionery: 5,shop-convenience: 4,amenity-bank: 3,99,536,10
+user_906,leisure-fitness_centre: 1,amenity-cafe: 1,amenity-pharmacy: 1,amenity-restaurant: 1,shop-convenience: 1,32,179,5
+user_907,amenity-restaurant: 7,amenity-bar: 6,amenity-bank: 4,shop-furniture: 3,amenity-place_of_worship: 2,96,425,8
+user_908,amenity-fast_food: 5,shop-hairdresser: 4,shop-department_store: 3,amenity-bank: 2,shop-supermarket: 2,91,257,6
+user_909,amenity-restaurant: 1,,,,,94,372,2
+user_910,amenity-pharmacy: 1,tourism-artwork: 1,,,,30,139,3
+user_911,shop-supermarket: 2,leisure-garden: 1,amenity-place_of_worship: 1,shop-beauty: 1,shop-bakery: 1,43,214,4
+user_912,amenity-school: 2,tourism-artwork: 1,leisure-park: 1,amenity-place_of_worship: 1,shop-convenience: 1,77,293,6
+user_913,shop-confectionery: 5,shop-furniture: 5,shop-hairdresser: 4,amenity-marketplace: 4,amenity-restaurant: 3,59,302,8
+user_914,amenity-restaurant: 6,shop-hairdresser: 3,amenity-fast_food: 3,amenity-pharmacy: 3,amenity-school: 2,96,407,9
+user_915,amenity-courthouse: 1,leisure-garden: 1,shop-bakery: 1,,,41,158,2
+user_916,amenity-marketplace: 6,shop-convenience: 3,shop-bakery: 3,leisure-stadium: 2,leisure-playground: 1,19,134,4
+user_917,amenity-hospital: 2,leisure-park: 2,amenity-fast_food: 1,,,62,469,6
+user_918,amenity-school: 1,leisure-pitch: 1,,,,20,117,2
+user_919,leisure-sports_centre: 2,amenity-kindergarten: 1,amenity-restaurant: 1,amenity-clinic: 1,leisure-park: 1,59,336,5
+user_920,amenity-cafe: 2,shop-confectionery: 2,leisure-garden: 1,amenity-bar: 1,amenity-townhall: 1,48,152,4
+user_921,leisure-swimming_pool: 1,leisure-playground: 1,leisure-pitch: 1,leisure-sports_centre: 1,,96,370,2
+user_922,amenity-bar: 3,leisure-sports_centre: 1,leisure-swimming_pool: 1,amenity-school: 1,leisure-garden: 1,41,276,5
+user_923,amenity-school: 1,leisure-pitch: 1,,,,25,144,2
+user_924,amenity-bar: 6,shop-hairdresser: 4,amenity-bank: 4,shop-bakery: 3,shop-confectionery: 3,98,637,12
+user_925,amenity-restaurant: 4,amenity-bank: 3,shop-bakery: 3,amenity-cafe: 2,historic-monument: 2,47,228,7
+user_926,amenity-school: 2,amenity-kindergarten: 1,leisure-track: 1,leisure-swimming_pool: 1,leisure-playground: 1,93,343,5
+user_927,,,,,,12,12,0
+user_928,shop-bakery: 4,shop-hairdresser: 4,amenity-bar: 3,amenity-school: 2,shop-hardware: 1,96,447,8
+user_929,amenity-bar: 5,amenity-bank: 3,amenity-pharmacy: 2,amenity-pub: 2,shop-bakery: 2,49,245,5
+user_930,,,,,,59,292,3
+user_931,shop-furniture: 3,amenity-bank: 2,shop-beauty: 2,amenity-casino: 1,amenity-cafe: 1,65,306,5
+user_932,leisure-garden: 1,amenity-bank: 1,,,,39,299,6
+user_933,leisure-fitness_centre: 2,amenity-hospital: 2,amenity-courthouse: 1,amenity-cafe: 1,leisure-pitch: 1,65,366,7
+user_934,amenity-bar: 5,amenity-restaurant: 5,amenity-pub: 4,shop-bakery: 3,shop-supermarket: 1,97,409,6
+user_935,leisure-pitch: 4,amenity-school: 3,leisure-park: 2,shop-confectionery: 1,amenity-theatre: 1,27,137,3
+user_936,leisure-garden: 7,amenity-school: 1,shop-supermarket: 1,shop-convenience: 1,amenity-cafe: 1,96,385,8
+user_937,amenity-school: 1,leisure-park: 1,amenity-theatre: 1,leisure-pitch: 1,shop-confectionery: 1,21,143,3
+user_938,shop-hairdresser: 3,shop-confectionery: 2,shop-convenience: 2,shop-hardware: 1,amenity-bar: 1,87,432,5
+user_939,shop-hairdresser: 5,leisure-park: 4,amenity-cafe: 4,amenity-bank: 3,shop-supermarket: 2,79,370,11
+user_940,amenity-restaurant: 10,amenity-pub: 3,amenity-nightclub: 2,historic-memorial: 1,tourism-attraction: 1,74,350,5
+user_941,amenity-cafe: 7,amenity-restaurant: 7,leisure-pitch: 6,amenity-bar: 5,shop-hairdresser: 5,72,393,9
+user_942,shop-hairdresser: 6,amenity-restaurant: 5,leisure-park: 4,shop-confectionery: 4,shop-convenience: 3,92,799,8
+user_943,shop-furniture: 3,leisure-pitch: 3,shop-bakery: 2,shop-hairdresser: 2,amenity-restaurant: 1,63,422,5
+user_944,leisure-pitch: 4,shop-hairdresser: 4,amenity-bank: 3,amenity-school: 2,amenity-pharmacy: 2,67,329,10
+user_945,leisure-park: 5,leisure-pitch: 3,leisure-sports_centre: 2,amenity-school: 2,amenity-bank: 2,96,501,9
+user_946,leisure-pitch: 3,leisure-swimming_pool: 1,amenity-school: 1,amenity-theatre: 1,amenity-pharmacy: 1,14,73,3
+user_947,leisure-pitch: 3,amenity-school: 2,amenity-bar: 2,amenity-cafe: 1,shop-bakery: 1,76,335,7
+user_948,amenity-restaurant: 4,leisure-park: 1,amenity-cafe: 1,natural-wood: 1,,33,296,3
+user_949,leisure-park: 2,shop-hairdresser: 2,shop-furniture: 2,amenity-bar: 1,amenity-restaurant: 1,87,447,8
+user_950,,,,,,42,119,1
+user_951,amenity-fast_food: 1,,,,,39,150,2
+user_952,leisure-park: 1,,,,,92,331,4
+user_953,amenity-restaurant: 2,amenity-bar: 1,,,,74,280,3
+user_954,leisure-pitch: 3,leisure-swimming_pool: 1,leisure-park: 1,amenity-school: 1,amenity-bar: 1,38,225,5
+user_955,amenity-school: 1,,,,,37,148,2
+user_956,amenity-bank: 2,amenity-townhall: 1,amenity-cinema: 1,shop-beauty: 1,,26,96,1
+user_957,amenity-cafe: 3,amenity-fast_food: 2,natural-wood: 1,amenity-pub: 1,,94,263,4
+user_958,amenity-cafe: 6,amenity-pub: 4,shop-convenience: 2,amenity-restaurant: 2,amenity-bank: 2,94,601,12
+user_959,amenity-restaurant: 4,tourism-artwork: 4,amenity-pub: 3,amenity-cafe: 3,shop-convenience: 3,75,468,10
+user_960,amenity-fast_food: 10,amenity-university: 6,amenity-cafe: 5,leisure-park: 3,amenity-pub: 3,92,622,16
+user_961,amenity-fast_food: 5,amenity-school: 3,leisure-park: 1,leisure-playground: 1,tourism-artwork: 1,44,203,4
+user_962,leisure-pitch: 2,leisure-park: 2,amenity-bar: 2,leisure-playground: 2,natural-wood: 1,59,340,7
+user_963,natural-wood: 3,amenity-restaurant: 2,amenity-school: 1,,,72,342,8
+user_964,amenity-restaurant: 7,amenity-fast_food: 6,shop-beauty: 6,amenity-cafe: 5,amenity-pharmacy: 2,64,207,3
+user_965,amenity-fast_food: 5,shop-convenience: 3,amenity-restaurant: 2,amenity-pharmacy: 2,amenity-doctors: 1,32,128,5
+user_966,amenity-restaurant: 2,amenity-cafe: 2,leisure-park: 1,leisure-playground: 1,,54,158,3
+user_967,amenity-pub: 2,amenity-cafe: 1,amenity-restaurant: 1,shop-beauty: 1,shop-confectionery: 1,26,130,3
+user_968,amenity-cafe: 6,historic-monument: 2,shop-hairdresser: 2,leisure-park: 2,leisure-playground: 1,91,289,7
+user_969,amenity-restaurant: 7,amenity-cafe: 5,amenity-bar: 4,shop-bakery: 2,amenity-marketplace: 1,80,211,3
+user_970,amenity-school: 3,leisure-park: 2,leisure-swimming_pool: 1,leisure-playground: 1,leisure-pitch: 1,93,466,6
+user_971,leisure-pitch: 3,shop-hairdresser: 1,amenity-school: 1,amenity-theatre: 1,shop-furniture: 1,54,277,5
+user_972,,,,,,10,27,0
+user_973,amenity-school: 2,leisure-playground: 1,shop-car_repair: 1,shop-confectionery: 1,leisure-pitch: 1,93,546,8
+user_974,office-university: 4,amenity-university: 1,,,,92,534,6
+user_975,amenity-pub: 2,leisure-park: 1,shop-supermarket: 1,amenity-university: 1,amenity-place_of_worship: 1,91,449,9
+user_976,amenity-restaurant: 7,amenity-bar: 5,shop-hairdresser: 4,amenity-bank: 3,amenity-cafe: 3,61,425,8
+user_977,shop-bakery: 2,amenity-clinic: 1,shop-hairdresser: 1,amenity-bar: 1,,25,146,4
+user_978,amenity-restaurant: 2,shop-furniture: 1,amenity-community_centre: 1,amenity-school: 1,amenity-college: 1,64,379,5
+user_979,amenity-school: 2,leisure-park: 2,amenity-place_of_worship: 2,amenity-pharmacy: 2,tourism-artwork: 2,79,358,9
+user_980,shop-supermarket: 1,amenity-restaurant: 1,leisure-swimming_pool: 1,,,78,385,6
+user_981,amenity-school: 3,amenity-bank: 3,amenity-pharmacy: 2,shop-beauty: 2,amenity-cafe: 2,36,185,6
+user_982,leisure-garden: 2,amenity-school: 2,leisure-park: 1,shop-hardware: 1,shop-bakery: 1,38,155,3
+user_983,amenity-place_of_worship: 4,amenity-school: 3,leisure-park: 2,shop-supermarket: 1,amenity-cafe: 1,86,749,18
+user_984,leisure-pitch: 4,amenity-school: 2,leisure-park: 1,amenity-theatre: 1,shop-confectionery: 1,55,306,6
+user_985,office-university: 2,leisure-park: 2,amenity-university: 1,leisure-pitch: 1,,84,511,7
+user_986,amenity-fast_food: 11,amenity-cafe: 7,shop-confectionery: 4,amenity-restaurant: 4,shop-department_store: 3,80,564,6
+user_987,amenity-fast_food: 6,amenity-bank: 4,shop-car_repair: 3,amenity-restaurant: 3,shop-convenience: 3,76,451,8
+user_988,leisure-park: 3,amenity-university: 2,amenity-pub: 2,amenity-clinic: 1,amenity-place_of_worship: 1,60,246,5
+user_989,amenity-fast_food: 8,amenity-place_of_worship: 3,shop-hairdresser: 3,amenity-restaurant: 2,shop-supermarket: 2,79,393,8
+user_990,amenity-school: 2,leisure-park: 1,leisure-sports_centre: 1,leisure-track: 1,,79,283,5
+user_991,amenity-school: 3,amenity-place_of_worship: 1,shop-supermarket: 1,,,53,212,6
+user_992,leisure-park: 2,amenity-hospital: 1,amenity-park: 1,amenity-nightclub: 1,shop-convenience: 1,46,196,3
+user_993,leisure-sports_centre: 2,leisure-park: 1,amenity-place_of_worship: 1,amenity-dentist: 1,amenity-cinema: 1,59,281,3
+user_994,leisure-garden: 45,tourism-artwork: 3,amenity-restaurant: 3,amenity-place_of_worship: 2,leisure-park: 1,74,230,5
+user_995,amenity-school: 7,leisure-park: 1,natural-wood: 1,amenity-place_of_worship: 1,,71,548,16
+user_996,amenity-fast_food: 5,amenity-cafe: 4,shop-convenience: 3,amenity-restaurant: 3,shop-confectionery: 2,66,217,4
+user_997,leisure-park: 3,amenity-university: 2,leisure-sports_centre: 1,leisure-garden: 1,,37,182,3
+user_998,amenity-fast_food: 5,amenity-pub: 2,shop-furniture: 2,tourism-artwork: 1,amenity-college: 1,63,205,5
+user_999,amenity-school: 1,,,,,38,259,2
+user_1000,tourism-artwork: 2,shop-supermarket: 1,leisure-garden: 1,amenity-bar: 1,,61,224,3
+user_1001,amenity-dentist: 1,amenity-doctors: 1,leisure-playground: 1,craft-brewery: 1,amenity-pub: 1,61,373,5
+user_1002,amenity-doctors: 1,,,,,55,404,4
+user_1003,amenity-restaurant: 3,tourism-artwork: 2,shop-hairdresser: 1,shop-convenience: 1,leisure-park: 1,41,199,5
+user_1004,amenity-restaurant: 2,amenity-college: 1,shop-supermarket: 1,amenity-place_of_worship: 1,tourism-artwork: 1,35,202,7
+user_1005,leisure-swimming_pool: 3,shop-supermarket: 1,,,,59,217,5
+user_1006,leisure-park: 1,shop-tattoo: 1,leisure-sports_centre: 1,,,40,163,5
+user_1007,amenity-place_of_worship: 4,amenity-pub: 2,shop-car_repair: 2,shop-convenience: 1,,61,467,6
+user_1008,leisure-garden: 1,amenity-school: 1,leisure-park: 1,,,32,125,3
+user_1009,amenity-place_of_worship: 1,,,,,26,119,2
+user_1010,amenity-fast_food: 4,shop-convenience: 3,amenity-place_of_worship: 2,shop-confectionery: 2,amenity-bank: 2,60,146,3
+user_1011,amenity-fast_food: 3,shop-hairdresser: 2,amenity-school: 2,leisure-park: 1,leisure-playground: 1,36,148,4
+user_1012,shop-supermarket: 1,leisure-park: 1,,,,18,124,3
+user_1013,shop-supermarket: 4,amenity-fast_food: 3,amenity-restaurant: 2,amenity-school: 1,amenity-pub: 1,38,282,8
+user_1014,amenity-pub: 1,shop-supermarket: 1,amenity-cafe: 1,,,52,223,5
+user_1015,leisure-garden: 7,amenity-kindergarten: 1,amenity-fast_food: 1,,,58,254,5
+user_1016,leisure-garden: 43,amenity-school: 1,amenity-cafe: 1,,,42,250,4
+user_1017,amenity-place_of_worship: 2,amenity-restaurant: 2,shop-furniture: 1,amenity-school: 1,shop-convenience: 1,38,151,6
+user_1018,amenity-restaurant: 2,leisure-garden: 1,amenity-cinema: 1,leisure-sports_centre: 1,amenity-dentist: 1,41,276,5
+user_1019,leisure-park: 1,amenity-college: 1,amenity-restaurant: 1,,,28,92,3
+user_1020,shop-hairdresser: 2,amenity-pharmacy: 2,shop-convenience: 2,shop-supermarket: 1,amenity-cafe: 1,42,170,4
+user_1021,shop-supermarket: 1,,,,,58,161,2
+user_1022,leisure-park: 1,,,,,37,247,4
+user_1023,leisure-park: 1,amenity-bank: 1,amenity-cafe: 1,shop-hardware: 1,amenity-school: 1,47,305,5
+user_1024,amenity-dentist: 2,amenity-school: 1,amenity-doctors: 1,,,46,166,4
+user_1025,amenity-college: 2,amenity-university: 2,shop-car_repair: 1,,,29,209,7
+user_1026,amenity-school: 1,amenity-pub: 1,,,,47,209,3
+user_1027,leisure-park: 2,leisure-garden: 1,,,,21,140,4
+user_1028,leisure-garden: 16,amenity-fast_food: 3,amenity-pharmacy: 2,amenity-college: 1,amenity-bank: 1,46,283,5
+user_1029,amenity-police: 1,,,,,46,281,4
+user_1030,,,,,,29,163,4
+user_1031,leisure-sports_centre: 1,leisure-swimming_pool: 1,amenity-place_of_worship: 1,amenity-school: 1,,46,199,5
+user_1032,amenity-fast_food: 8,shop-hairdresser: 3,amenity-bank: 2,leisure-fitness_centre: 1,amenity-bar: 1,43,315,8
+user_1033,,,,,,39,150,1
+user_1034,amenity-fast_food: 4,shop-supermarket: 2,shop-hairdresser: 2,shop-convenience: 2,amenity-school: 1,46,319,5
+user_1035,tourism-artwork: 13,amenity-cinema: 1,amenity-fast_food: 1,amenity-studio: 1,,47,137,2
+user_1036,amenity-restaurant: 1,,,,,46,253,2
+user_1037,amenity-school: 3,amenity-place_of_worship: 1,shop-hairdresser: 1,leisure-park: 1,,43,289,8
+user_1038,amenity-fast_food: 2,amenity-school: 1,amenity-college: 1,amenity-pub: 1,shop-hairdresser: 1,46,199,3
+user_1039,leisure-park: 1,amenity-hospital: 1,,,,18,61,1
+user_1040,leisure-park: 1,shop-supermarket: 1,natural-wood: 1,,,45,298,2
+user_1041,office-university: 3,amenity-university: 1,,,,42,287,6
+user_1042,shop-car_repair: 2,amenity-place_of_worship: 1,shop-convenience: 1,amenity-kindergarten: 1,,43,165,2
+user_1043,,,,,,22,145,3
+user_1044,amenity-restaurant: 3,amenity-school: 1,amenity-bar: 1,amenity-bank: 1,shop-hardware: 1,37,166,4
+user_1045,amenity-school: 1,,,,,36,159,2
+user_1046,tourism-artwork: 12,amenity-cafe: 2,amenity-fast_food: 2,shop-confectionery: 1,shop-convenience: 1,35,225,4
+user_1047,amenity-university: 1,amenity-kindergarten: 1,leisure-pitch: 1,,,34,102,3
+user_1048,tourism-artwork: 5,amenity-pub: 2,amenity-bank: 2,amenity-cafe: 2,leisure-park: 1,26,142,3
+user_1049,amenity-place_of_worship: 2,leisure-park: 1,amenity-pub: 1,shop-convenience: 1,amenity-school: 1,26,192,5
+user_1050,tourism-artwork: 5,amenity-fast_food: 1,amenity-veterinary: 1,,,26,189,2
+user_1051,amenity-place_of_worship: 1,,,,,23,76,3
+user_1052,leisure-garden: 1,leisure-park: 1,amenity-place_of_worship: 1,amenity-school: 1,shop-supermarket: 1,26,266,5
+user_1053,amenity-restaurant: 3,amenity-fast_food: 3,amenity-cafe: 2,amenity-food_court: 1,amenity-bar: 1,25,145,2
